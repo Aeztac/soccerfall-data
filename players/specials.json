@@ -1,18 +1,23 @@
 {
-  "ronaldo_worldcup": {
-    "DisplayName": "RONALDO",
-    "FullName": "Cristiano Ronaldo",
-    "Position": "ST",
-    "Flag": "🇵🇹",
-    "Nation": "Portugal",
+  "messi_worldcup": {
+    "DisplayName": "MESSI",
+    "Position": "CAM",
     "Rarity": "Elite",
-    "Overall": 94,
-    "Pace": 90,
-    "Shooting": 96,
-    "Passing": 84,
-    "Dribbling": 92,
-    "Defending": 40,
-    "Physical": 86,
+    "Overall": 97,
+    "AppearanceId": "messi"
+  },
+  "ronaldo_toty": {
+    "DisplayName": "RONALDO",
+    "Position": "ST",
+    "Rarity": "Elite",
+    "Overall": 96,
     "AppearanceId": "ronaldo"
+  },
+  "haaland_toty": {
+    "DisplayName": "HAALAND",
+    "Position": "ST",
+    "Rarity": "Elite",
+    "Overall": 96,
+    "AppearanceId": "haaland"
   }
 }
