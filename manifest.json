@@ -1,1 +1,10 @@
-
+{
+  "version": 1,
+  "playerFiles": [
+    "players/current.json",
+    "players/legends.json",
+    "players/mythic.json",
+    "players/specials.json"
+  ],
+  "appearanceFile": "appearances.json"
+}
