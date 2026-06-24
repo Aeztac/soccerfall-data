@@ -1,1 +1,35 @@
+{
+  "mbappe_base": {
+    "DisplayName": "K. MBAPPE",
+    "FullName": "Kylian Mbappe",
+    "Position": "ST",
+    "Flag": "🇫🇷",
+    "Nation": "France",
+    "Rarity": "Legend",
+    "Overall": 91,
+    "Pace": 97,
+    "Shooting": 90,
+    "Passing": 82,
+    "Dribbling": 92,
+    "Defending": 36,
+    "Physical": 78,
+    "AppearanceId": "mbappe"
+  },
 
+  "haaland_base": {
+    "DisplayName": "HAALAND",
+    "FullName": "Erling Haaland",
+    "Position": "ST",
+    "Flag": "🇳🇴",
+    "Nation": "Norway",
+    "Rarity": "Legend",
+    "Overall": 91,
+    "Pace": 88,
+    "Shooting": 93,
+    "Passing": 70,
+    "Dribbling": 81,
+    "Defending": 45,
+    "Physical": 88,
+    "AppearanceId": "haaland"
+  }
+}
