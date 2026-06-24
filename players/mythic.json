@@ -1,1 +1,35 @@
+{
+  "mbappe_mythic": {
+    "DisplayName": "K. MBAPPE",
+    "FullName": "Kylian Mbappe",
+    "Position": "ST",
+    "Flag": "🇫🇷",
+    "Nation": "France",
+    "Rarity": "Mythic",
+    "Overall": 99,
+    "Pace": 99,
+    "Shooting": 98,
+    "Passing": 94,
+    "Dribbling": 99,
+    "Defending": 55,
+    "Physical": 90,
+    "AppearanceId": "mbappe"
+  },
 
+  "messi_mythic": {
+    "DisplayName": "MESSI",
+    "FullName": "Lionel Messi",
+    "Position": "CAM",
+    "Flag": "🇦🇷",
+    "Nation": "Argentina",
+    "Rarity": "Mythic",
+    "Overall": 99,
+    "Pace": 92,
+    "Shooting": 98,
+    "Passing": 99,
+    "Dribbling": 99,
+    "Defending": 45,
+    "Physical": 78,
+    "AppearanceId": "messi"
+  }
+}
