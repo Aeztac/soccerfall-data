@@ -1,35 +1,37 @@
 {
   "pele_icon": {
     "DisplayName": "PELE",
-    "FullName": "Pele",
     "Position": "CAM",
-    "Flag": "🇧🇷",
-    "Nation": "Brazil",
     "Rarity": "Legend",
     "Overall": 98,
-    "Pace": 95,
-    "Shooting": 96,
-    "Passing": 93,
-    "Dribbling": 97,
-    "Defending": 60,
-    "Physical": 76,
     "AppearanceId": "pele"
   },
-
+  "maradona_icon": {
+    "DisplayName": "MARADONA",
+    "Position": "CAM",
+    "Rarity": "Legend",
+    "Overall": 97,
+    "AppearanceId": "maradona"
+  },
   "zidane_icon": {
     "DisplayName": "ZIDANE",
-    "FullName": "Zinedine Zidane",
     "Position": "CAM",
-    "Flag": "🇫🇷",
-    "Nation": "France",
     "Rarity": "Legend",
     "Overall": 96,
-    "Pace": 82,
-    "Shooting": 91,
-    "Passing": 96,
-    "Dribbling": 96,
-    "Defending": 75,
-    "Physical": 86,
     "AppearanceId": "zidane"
+  },
+  "ronaldinho_icon": {
+    "DisplayName": "RONALDINHO",
+    "Position": "LW",
+    "Rarity": "Legend",
+    "Overall": 96,
+    "AppearanceId": "ronaldinho"
+  },
+  "r9_icon": {
+    "DisplayName": "R9",
+    "Position": "ST",
+    "Rarity": "Legend",
+    "Overall": 97,
+    "AppearanceId": "r9"
   }
 }
