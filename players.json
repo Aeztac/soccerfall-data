@@ -1,20 +1,20 @@
 {
-  "KylianMave": {
-    "DisplayName": "Kylian Mave",
+  "mbappe_base": {
+    "DisplayName": "K. MBAPPE",
+    "FullName": "Kylian Mbappe",
     "Position": "ST",
     "Flag": "🇫🇷",
+    "Nation": "France",
     "Rarity": "Legend",
-    "Overall": 95,
+    "Overall": 91,
+
     "Pace": 97,
-    "Shooting": 94,
-    "Passing": 86,
-    "Dribbling": 95,
-    "Defending": 42,
-    "Physical": 82,
-    "SkinTone": "Brown2",
-    "Hair": "ShortFade",
-    "Face": "Face03",
-    "Body": "Athletic",
-    "Kit": "BlueRed"
+    "Shooting": 90,
+    "Passing": 82,
+    "Dribbling": 92,
+    "Defending": 36,
+    "Physical": 78,
+
+    "AppearanceId": "mbappe"
   }
 }
