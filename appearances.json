@@ -3,5 +3,35 @@
     "Hair": "Short",
     "Face": "Face03",
     "SkinTone": "Brown"
+  },
+
+  "haaland": {
+    "Hair": "Beautiful",
+    "Face": "Face06",
+    "SkinTone": "Pale"
+  },
+
+  "messi": {
+    "Hair": "Short",
+    "Face": "Face04",
+    "SkinTone": "Fair"
+  },
+
+  "ronaldo": {
+    "Hair": "Taper",
+    "Face": "Face05",
+    "SkinTone": "Tan"
+  },
+
+  "pele": {
+    "Hair": "Curly",
+    "Face": "Face08",
+    "SkinTone": "DarkBrown"
+  },
+
+  "zidane": {
+    "Hair": "BuzzCut",
+    "Face": "Face02",
+    "SkinTone": "Fair"
   }
 }
