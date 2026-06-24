@@ -1,37 +1,32 @@
 {
-  "mbappe": {
+  "john_stone": {
     "Hair": "Short",
+    "Face": "Face01",
+    "SkinTone": "Fair"
+  },
+  "marco_silva": {
+    "Hair": "Taper",
+    "Face": "Face02",
+    "SkinTone": "Olive"
+  },
+  "alex_rocha": {
+    "Hair": "Curly",
     "Face": "Face03",
     "SkinTone": "Brown"
   },
-
-  "haaland": {
-    "Hair": "Beautiful",
-    "Face": "Face06",
-    "SkinTone": "Pale"
-  },
-
-  "messi": {
-    "Hair": "Short",
+  "lucas_hill": {
+    "Hair": "Straight",
     "Face": "Face04",
     "SkinTone": "Fair"
   },
-
-  "ronaldo": {
-    "Hair": "Taper",
+  "mateo_costa": {
+    "Hair": "Shaggy",
     "Face": "Face05",
     "SkinTone": "Tan"
   },
-
-  "pele": {
-    "Hair": "Curly",
-    "Face": "Face08",
-    "SkinTone": "DarkBrown"
-  },
-
-  "zidane": {
+  "david_king": {
     "Hair": "BuzzCut",
-    "Face": "Face02",
+    "Face": "Face06",
     "SkinTone": "Fair"
   }
 }
