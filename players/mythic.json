@@ -4,20 +4,20 @@
     "Position": "ST",
     "Rarity": "Mythic",
     "Overall": 99,
-    "AppearanceId": "mbappe"
+    "AppearanceId": "kylian_mbappe"
   },
   "messi_mythic": {
     "DisplayName": "MESSI",
     "Position": "CAM",
     "Rarity": "Mythic",
     "Overall": 99,
-    "AppearanceId": "messi"
+    "AppearanceId": "lionel_messi"
   },
   "ronaldo_mythic": {
     "DisplayName": "RONALDO",
     "Position": "ST",
     "Rarity": "Mythic",
     "Overall": 99,
-    "AppearanceId": "ronaldo"
+    "AppearanceId": "cristiano_ronaldo"
   }
 }
