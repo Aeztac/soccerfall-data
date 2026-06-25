@@ -6,18 +6,20 @@
     "Overall": 99,
     "AppearanceId": "mbappe"
   },
-  "messi_mythic": {
-    "DisplayName": "MESSI",
-    "Position": "CAM",
-    "Rarity": "Mythic",
-    "Overall": 99,
-    "AppearanceId": "messi"
-  },
-  "ronaldo_mythic": {
-    "DisplayName": "RONALDO",
-    "Position": "ST",
-    "Rarity": "Mythic",
-    "Overall": 99,
-    "AppearanceId": "ronaldo"
-  }
+"messi_mythic": {
+  "DisplayName": "MESSI",
+  "FullName": "Lionel Messi",
+  "Position": "CAM",
+  "Rarity": "Mythic",
+  "Overall": 99,
+  "AppearanceId": "lionel_messi"
+},
+"ronaldo_mythic": {
+  "DisplayName": "RONALDO",
+  "FullName": "Cristiano Ronaldo",
+  "Position": "ST",
+  "Rarity": "Mythic",
+  "Overall": 99,
+  "AppearanceId": "cristiano_ronaldo"
+ }
 }
