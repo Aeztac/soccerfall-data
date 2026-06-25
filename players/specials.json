@@ -4,20 +4,20 @@
     "Position": "CAM",
     "Rarity": "Elite",
     "Overall": 97,
-    "AppearanceId": "messi"
+    "AppearanceId": "lionel_messi"
   },
   "ronaldo_toty": {
     "DisplayName": "RONALDO",
     "Position": "ST",
     "Rarity": "Elite",
     "Overall": 96,
-    "AppearanceId": "ronaldo"
+    "AppearanceId": "cristiano_ronaldo"
   },
   "haaland_toty": {
     "DisplayName": "HAALAND",
     "Position": "ST",
     "Rarity": "Elite",
     "Overall": 96,
-    "AppearanceId": "haaland"
+    "AppearanceId": "eerling_haaland"
   }
 }
