@@ -2,9 +2,8 @@
   "Common": {
     "color": "#8A8A8A",
     "frame": "Common",
-    "effect": "None",
+    "cardEffect": "None",
     "maxLevel": 5,
-    "dropWeight": 50,
     "upgradeMultiplier": 1.0,
     "obtainable": true
   },
@@ -12,9 +11,8 @@
   "Uncommon": {
     "color": "#57C84D",
     "frame": "Uncommon",
-    "effect": "None",
+    "cardEffect": "None",
     "maxLevel": 10,
-    "dropWeight": 30,
     "upgradeMultiplier": 1.2,
     "obtainable": true
   },
@@ -22,9 +20,8 @@
   "Rare": {
     "color": "#3A86FF",
     "frame": "Rare",
-    "effect": "Shine",
+    "cardEffect": "Shine",
     "maxLevel": 15,
-    "dropWeight": 12,
     "upgradeMultiplier": 1.4,
     "obtainable": true
   },
@@ -32,9 +29,8 @@
   "Epic": {
     "color": "#9B5DE5",
     "frame": "Epic",
-    "effect": "Glow",
+    "cardEffect": "Glow",
     "maxLevel": 20,
-    "dropWeight": 5,
     "upgradeMultiplier": 1.7,
     "obtainable": true
   },
@@ -42,9 +38,8 @@
   "Legendary": {
     "color": "#F4B400",
     "frame": "Legendary",
-    "effect": "GoldenGlow",
+    "cardEffect": "GoldenGlow",
     "maxLevel": 25,
-    "dropWeight": 2.2,
     "upgradeMultiplier": 2.0,
     "obtainable": true
   },
@@ -52,9 +47,8 @@
   "Mythic": {
     "color": "#E63946",
     "frame": "Mythic",
-    "effect": "Pulse",
+    "cardEffect": "Pulse",
     "maxLevel": 30,
-    "dropWeight": 0.7,
     "upgradeMultiplier": 2.5,
     "obtainable": true
   },
@@ -62,9 +56,8 @@
   "Special": {
     "color": "#00E5FF",
     "frame": "Special",
-    "effect": "Rainbow",
+    "cardEffect": "Rainbow",
     "maxLevel": 30,
-    "dropWeight": 0,
     "upgradeMultiplier": 1.0,
     "obtainable": false
   }
