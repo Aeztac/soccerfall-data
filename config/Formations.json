@@ -1,7 +1,8 @@
 {
-  "balanced_6v6": {
-    "name": "Balanced",
-    "slots": [
+  "Balanced": {
+    "displayName": "Balanced",
+
+    "positions": [
       "GK",
       "LB",
       "CB",
@@ -10,9 +11,11 @@
       "ST"
     ]
   },
-  "attack_6v6": {
-    "name": "Attack",
-    "slots": [
+
+  "Attack": {
+    "displayName": "Attack",
+
+    "positions": [
       "GK",
       "CB",
       "CAM",
@@ -21,25 +24,29 @@
       "ST"
     ]
   },
-  "control_6v6": {
-    "name": "Control",
-    "slots": [
-      "GK",
-      "LB",
-      "CM",
-      "CAM",
-      "RW",
-      "ST"
-    ]
-  },
-  "defensive_6v6": {
-    "name": "Defensive",
-    "slots": [
+
+  "Defensive": {
+    "displayName": "Defensive",
+
+    "positions": [
       "GK",
       "LB",
       "CB",
       "RB",
       "CM",
+      "ST"
+    ]
+  },
+
+  "Control": {
+    "displayName": "Control",
+
+    "positions": [
+      "GK",
+      "LB",
+      "CM",
+      "CAM",
+      "RW",
       "ST"
     ]
   }
