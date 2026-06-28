@@ -1,70 +1,140 @@
 {
-  "common_pack": {
-    "name": "Common Pack",
+  "CommonPack": {
+    "displayName": "Common Pack",
+    "description": "Contains 3 Common or better players.",
+
     "currency": "Coins",
     "price": 500,
-    "cards": 3,
+
+    "cardsPerPack": 3,
+
+    "guaranteed": {
+      "Common": 1
+    },
+
     "odds": {
       "Common": 75,
-      "Uncommon": 22,
-      "Rare": 3
+      "Uncommon": 20,
+      "Rare": 4,
+      "Epic": 1,
+      "Legendary": 0,
+      "Mythic": 0,
+      "Special": 0
     }
   },
-  "uncommon_pack": {
-    "name": "Uncommon Pack",
+
+  "UncommonPack": {
+    "displayName": "Uncommon Pack",
+
     "currency": "Coins",
     "price": 1500,
-    "cards": 3,
+
+    "cardsPerPack": 3,
+
+    "guaranteed": {
+      "Uncommon": 1
+    },
+
     "odds": {
-      "Common": 20,
-      "Uncommon": 55,
-      "Rare": 20,
-      "Epic": 5
+      "Common": 40,
+      "Uncommon": 40,
+      "Rare": 15,
+      "Epic": 4,
+      "Legendary": 1,
+      "Mythic": 0,
+      "Special": 0
     }
   },
-  "rare_pack": {
-    "name": "Rare Pack",
+
+  "RarePack": {
+    "displayName": "Rare Pack",
+
     "currency": "Coins",
     "price": 5000,
-    "cards": 3,
+
+    "cardsPerPack": 3,
+
+    "guaranteed": {
+      "Rare": 1
+    },
+
     "odds": {
-      "Uncommon": 25,
-      "Rare": 50,
-      "Epic": 20,
-      "Legendary": 5
+      "Common": 0,
+      "Uncommon": 45,
+      "Rare": 35,
+      "Epic": 15,
+      "Legendary": 4,
+      "Mythic": 1,
+      "Special": 0
     }
   },
-  "epic_pack": {
-    "name": "Epic Pack",
+
+  "EpicPack": {
+    "displayName": "Epic Pack",
+
     "currency": "Coins",
     "price": 15000,
-    "cards": 4,
+
+    "cardsPerPack": 4,
+
+    "guaranteed": {
+      "Epic": 1
+    },
+
     "odds": {
-      "Rare": 35,
-      "Epic": 45,
-      "Legendary": 18,
-      "Mythic": 2
+      "Common": 0,
+      "Uncommon": 0,
+      "Rare": 55,
+      "Epic": 30,
+      "Legendary": 12,
+      "Mythic": 3,
+      "Special": 0
     }
   },
-  "legendary_pack": {
-    "name": "Legendary Pack",
+
+  "LegendaryPack": {
+    "displayName": "Legendary Pack",
+
     "currency": "Gems",
     "price": 500,
-    "cards": 4,
+
+    "cardsPerPack": 4,
+
+    "guaranteed": {
+      "Legendary": 1
+    },
+
     "odds": {
-      "Epic": 35,
-      "Legendary": 55,
-      "Mythic": 10
+      "Common": 0,
+      "Uncommon": 0,
+      "Rare": 20,
+      "Epic": 45,
+      "Legendary": 30,
+      "Mythic": 5,
+      "Special": 0
     }
   },
-  "mythic_pack": {
-    "name": "Mythic Pack",
+
+  "MythicPack": {
+    "displayName": "Mythic Pack",
+
     "currency": "Gems",
     "price": 1200,
-    "cards": 5,
+
+    "cardsPerPack": 5,
+
+    "guaranteed": {
+      "Mythic": 1
+    },
+
     "odds": {
-      "Legendary": 70,
-      "Mythic": 30
+      "Common": 0,
+      "Uncommon": 0,
+      "Rare": 0,
+      "Epic": 30,
+      "Legendary": 50,
+      "Mythic": 20,
+      "Special": 0
     }
   }
 }
