@@ -1,36 +1,41 @@
 {
-  "gameName": "GOALINE",
+  "game": {
+    "name": "GOALINE",
+    "version": "1.0.0"
+  },
 
-  "maxLevel": 100,
+  "player": {
+    "startingCoins": 5000,
+    "startingGems": 100,
+    "startingXP": 0,
+    "maxLevel": 100
+  },
 
-  "teamSize": 6,
+  "inventory": {
+    "maxCards": 500,
+    "maxSquads": 10
+  },
 
-  "formationsEnabled": true,
+  "match": {
+    "teamSize": 6,
+    "matchLength": 180,
+    "maxExtraTime": 30
+  },
 
-  "maxInventorySize": 500,
+  "clubs": {
+    "maxMembers": 50,
+    "nameLimit": 20,
+    "descriptionLimit": 120
+  },
 
-  "startingCoins": 5000,
+  "packs": {
+    "animationTime": 4
+  },
 
-  "startingGems": 100,
-
-  "startingXP": 0,
-
-  "startingCards": [
-    "de_gea",
-    "a_davies",
-    "v_dijk",
-    "messi",
-    "vini_jr",
-    "ronaldo"
-  ],
-
-  "startingFormation": "Balanced",
-
-  "maxSquads": 10,
-
-  "maxClubMembers": 50,
-
-  "maxClubNameLength": 20,
-
-  "maxClubDescriptionLength": 120
+  "economy": {
+    "coinsPerWin": 250,
+    "coinsPerLoss": 100,
+    "xpPerWin": 150,
+    "xpPerLoss": 50
+  }
 }
