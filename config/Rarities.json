@@ -2,40 +2,63 @@
   "Common": {
     "color": "#8A8A8A",
     "minOverall": 50,
-    "maxOverall": 64
+    "maxOverall": 64,
+    "maxLevel": 5,
+    "packWeight": 50,
+    "upgradeMultiplier": 1.0
   },
 
   "Uncommon": {
-    "color": "#5FCF5F",
+    "color": "#57C84D",
     "minOverall": 65,
-    "maxOverall": 72
+    "maxOverall": 72,
+    "maxLevel": 10,
+    "packWeight": 30,
+    "upgradeMultiplier": 1.2
   },
 
   "Rare": {
-    "color": "#3D8BFF",
+    "color": "#3A86FF",
     "minOverall": 73,
-    "maxOverall": 80
+    "maxOverall": 80,
+    "maxLevel": 15,
+    "packWeight": 12,
+    "upgradeMultiplier": 1.4
   },
 
   "Epic": {
-    "color": "#A855F7",
+    "color": "#9B5DE5",
     "minOverall": 81,
-    "maxOverall": 87
+    "maxOverall": 87,
+    "maxLevel": 20,
+    "packWeight": 5,
+    "upgradeMultiplier": 1.7
   },
 
   "Legendary": {
-    "color": "#F5C542",
+    "color": "#F4B400",
     "minOverall": 88,
-    "maxOverall": 93
+    "maxOverall": 93,
+    "maxLevel": 25,
+    "packWeight": 2.2,
+    "upgradeMultiplier": 2.0
   },
 
   "Mythic": {
-    "color": "#E53935",
+    "color": "#E63946",
     "minOverall": 94,
-    "maxOverall": 97
+    "maxOverall": 97,
+    "maxLevel": 30,
+    "packWeight": 0.7,
+    "upgradeMultiplier": 2.5
   },
 
   "Special": {
-    "color": "#00E5FF"
+    "color": "#00E5FF",
+    "minOverall": 50,
+    "maxOverall": 99,
+    "maxLevel": 30,
+    "packWeight": 0,
+    "upgradeMultiplier": 1.0
   }
 }
