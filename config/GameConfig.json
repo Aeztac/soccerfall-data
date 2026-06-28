@@ -1,13 +1,36 @@
 {
-  "schemaVersion": 1,
   "gameName": "GOALINE",
+
+  "maxLevel": 100,
+
   "teamSize": 6,
-  "outfieldPlayers": 5,
-  "goalkeepers": 1,
-  "benchSize": 1,
+
+  "formationsEnabled": true,
+
+  "maxInventorySize": 500,
+
   "startingCoins": 5000,
+
   "startingGems": 100,
-  "defaultFormation": "balanced_6v6",
-  "maxInventory": 500,
-  "maxClubMembers": 50
+
+  "startingXP": 0,
+
+  "startingCards": [
+    "de_gea",
+    "a_davies",
+    "v_dijk",
+    "messi",
+    "vini_jr",
+    "ronaldo"
+  ],
+
+  "startingFormation": "Balanced",
+
+  "maxSquads": 10,
+
+  "maxClubMembers": 50,
+
+  "maxClubNameLength": 20,
+
+  "maxClubDescriptionLength": 120
 }
