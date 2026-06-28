@@ -1,1 +1,13 @@
-
+{
+  "schemaVersion": 1,
+  "gameName": "GOALINE",
+  "teamSize": 6,
+  "outfieldPlayers": 5,
+  "goalkeepers": 1,
+  "benchSize": 1,
+  "startingCoins": 5000,
+  "startingGems": 100,
+  "defaultFormation": "balanced_6v6",
+  "maxInventory": 500,
+  "maxClubMembers": 50
+}
