@@ -1,52 +1,71 @@
 {
-  "page": "offers",
-  "refreshesIn": "7d12h",
-
-  "featuredOffer": {
-    "id": "ultimate_legend_pack_offer",
-    "title": "ULTIMATE LEGEND PACK",
-    "tag": "FEATURED",
-    "subtitle": "Guaranteed 90+ OVR Player!",
-    "packId": "ultimate_legend",
-    "price": 1250,
-    "currency": "gems",
-    "endsAt": "2026-07-05T00:00:00Z"
-  },
+  "packs": [
+    {
+      "id": "BronzePack",
+      "name": "BRONZE PACK",
+      "cost": 500,
+      "currency": "Coins",
+      "image": "rbxassetid://138681582260369",
+      "discount": null
+    },
+    {
+      "id": "SilverPack",
+      "name": "SILVER PACK",
+      "cost": 1500,
+      "currency": "Coins",
+      "image": "rbxassetid://79527948585272",
+      "discount": null
+    },
+    {
+      "id": "GoldPack",
+      "name": "GOLD PACK",
+      "cost": 10000,
+      "currency": "Coins",
+      "image": "rbxassetid://127629622927024",
+      "discount": 10
+    },
+    {
+      "id": "LegendPack",
+      "name": "LEGEND PACK",
+      "cost": 1250,
+      "currency": "Gems",
+      "image": "rbxassetid://109037203612998",
+      "discount": 20
+    }
+  ],
 
   "dailyDeals": [
     {
-      "id": "gold_pack_20_off",
-      "type": "pack",
-      "title": "GOLD PACK",
-      "packId": "gold",
-      "discountText": "20% OFF",
-      "price": 10000,
-      "currency": "coins"
+      "id": "DailyGoldPackCoins",
+      "name": "GOLD PACK",
+      "cost": 10000,
+      "currency": "Coins",
+      "image": "rbxassetid://127629622927024",
+      "discount": 20
     },
     {
-      "id": "gold_pack_10_off",
-      "type": "pack",
-      "title": "GOLD PACK",
-      "packId": "gold",
-      "discountText": "10% OFF",
-      "price": 100,
-      "currency": "gems"
+      "id": "DailyGoldPackGems",
+      "name": "GOLD PACK",
+      "cost": 100,
+      "currency": "Gems",
+      "image": "rbxassetid://127629622927024",
+      "discount": 10
     },
     {
-      "id": "coins_25000",
-      "type": "coins",
-      "title": "25,000 COINS",
-      "amount": 25000,
-      "price": 100,
-      "currency": "gems"
+      "id": "DailyCoins",
+      "name": "25,000 COINS",
+      "cost": 100,
+      "currency": "Gems",
+      "image": "rbxassetid://124509093995222",
+      "discount": null
     },
     {
-      "id": "gems_100",
-      "type": "gems",
-      "title": "100 GEMS",
-      "amount": 100,
-      "price": 25000,
-      "currency": "coins"
+      "id": "DailyGems",
+      "name": "100 GEMS",
+      "cost": 25000,
+      "currency": "Coins",
+      "image": "rbxassetid://77704062163341",
+      "discount": null
     }
   ]
 }
