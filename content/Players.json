@@ -1,1 +1,23 @@
+{
+  "messi": {
+    "displayName": "MESSI",
+    "fullName": "Lionel Messi",
 
+    "country": "ARG",
+
+    "positions": {
+      "primary": "RW",
+      "secondary": [
+        "CAM",
+        "ST"
+      ]
+    },
+
+    "appearance": {
+      "face": "03",
+      "skinTone": "Light",
+      "hair": "ShortFade",
+      "hairColor": "DarkBrown"
+    }
+  }
+}
