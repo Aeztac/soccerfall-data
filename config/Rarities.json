@@ -1,1 +1,41 @@
+{
+  "Common": {
+    "color": "#8A8A8A",
+    "minOverall": 50,
+    "maxOverall": 64
+  },
 
+  "Uncommon": {
+    "color": "#5FCF5F",
+    "minOverall": 65,
+    "maxOverall": 72
+  },
+
+  "Rare": {
+    "color": "#3D8BFF",
+    "minOverall": 73,
+    "maxOverall": 80
+  },
+
+  "Epic": {
+    "color": "#A855F7",
+    "minOverall": 81,
+    "maxOverall": 87
+  },
+
+  "Legendary": {
+    "color": "#F5C542",
+    "minOverall": 88,
+    "maxOverall": 93
+  },
+
+  "Mythic": {
+    "color": "#E53935",
+    "minOverall": 94,
+    "maxOverall": 97
+  },
+
+  "Special": {
+    "color": "#00E5FF"
+  }
+}
