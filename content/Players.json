@@ -2,7 +2,7 @@
   "de_gea": {
     "displayName": "DE GEA",
     "fullName": "David de Gea",
-    "country": "ESP",
+    "country": "Spain",
     "positions": {
       "primary": "GK",
       "secondary": []
@@ -14,14 +14,15 @@
       "hairColor": "DarkBrown"
     }
   },
-
   "a_davies": {
     "displayName": "A. DAVIES",
     "fullName": "Alphonso Davies",
-    "country": "CAN",
+    "country": "Canada",
     "positions": {
       "primary": "LB",
-      "secondary": ["LW"]
+      "secondary": [
+        "LW"
+      ]
     },
     "appearance": {
       "face": "06",
@@ -30,14 +31,16 @@
       "hairColor": "Black"
     }
   },
-
   "v_dijk": {
     "displayName": "V. DIJK",
     "fullName": "Virgil van Dijk",
-    "country": "NED",
+    "country": "Netherlands",
     "positions": {
       "primary": "CB",
-      "secondary": ["LB", "RB"]
+      "secondary": [
+        "LB",
+        "RB"
+      ]
     },
     "appearance": {
       "face": "08",
@@ -46,14 +49,16 @@
       "hairColor": "Black"
     }
   },
-
   "messi": {
     "displayName": "MESSI",
     "fullName": "Lionel Messi",
-    "country": "ARG",
+    "country": "Argentina",
     "positions": {
       "primary": "CAM",
-      "secondary": ["RW", "ST"]
+      "secondary": [
+        "RW",
+        "ST"
+      ]
     },
     "appearance": {
       "face": "03",
@@ -62,14 +67,16 @@
       "hairColor": "DarkBrown"
     }
   },
-
   "vini_jr": {
     "displayName": "VINI JR",
     "fullName": "Vinicius Junior",
-    "country": "BRA",
+    "country": "Brazil",
     "positions": {
       "primary": "LW",
-      "secondary": ["RW", "ST"]
+      "secondary": [
+        "RW",
+        "ST"
+      ]
     },
     "appearance": {
       "face": "06",
@@ -78,14 +85,15 @@
       "hairColor": "Black"
     }
   },
-
   "ronaldo": {
     "displayName": "RONALDO",
     "fullName": "Cristiano Ronaldo",
-    "country": "POR",
+    "country": "Portugal",
     "positions": {
       "primary": "ST",
-      "secondary": ["LW"]
+      "secondary": [
+        "LW"
+      ]
     },
     "appearance": {
       "face": "04",
@@ -94,20 +102,1417 @@
       "hairColor": "DarkBrown"
     }
   },
-
   "yamal": {
     "displayName": "YAMAL",
     "fullName": "Lamine Yamal",
-    "country": "ESP",
+    "country": "Spain",
     "positions": {
       "primary": "RW",
-      "secondary": ["LW", "CAM"]
+      "secondary": [
+        "LW",
+        "CAM"
+      ]
     },
     "appearance": {
       "face": "06",
       "skinTone": "Brown",
       "hair": "CurlyShort",
       "hairColor": "DarkBrown"
+    }
+  },
+  "mbappe": {
+    "displayName": "MBAPPE",
+    "fullName": "Mbappe",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "haaland": {
+    "displayName": "HAALAND",
+    "fullName": "Haaland",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "bellingham": {
+    "displayName": "BELLINGHAM",
+    "fullName": "Bellingham",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "rodri": {
+    "displayName": "RODRI",
+    "fullName": "Rodri",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "salah": {
+    "displayName": "SALAH",
+    "fullName": "Salah",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "kane": {
+    "displayName": "KANE",
+    "fullName": "Kane",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "pedri": {
+    "displayName": "PEDRI",
+    "fullName": "Pedri",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "musiala": {
+    "displayName": "MUSIALA",
+    "fullName": "Musiala",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "wirtz": {
+    "displayName": "WIRTZ",
+    "fullName": "Wirtz",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "palmer": {
+    "displayName": "PALMER",
+    "fullName": "Palmer",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "saka": {
+    "displayName": "SAKA",
+    "fullName": "Saka",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "courtois": {
+    "displayName": "COURTOIS",
+    "fullName": "Courtois",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "donnarumma": {
+    "displayName": "DONNARUMMA",
+    "fullName": "Donnarumma",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "alisson": {
+    "displayName": "ALISSON",
+    "fullName": "Alisson",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "ederson": {
+    "displayName": "EDERSON",
+    "fullName": "Ederson",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "ter_stegen": {
+    "displayName": "TER STEGEN",
+    "fullName": "Ter Stegen",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "maignan": {
+    "displayName": "MAIGNAN",
+    "fullName": "Maignan",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "neuer": {
+    "displayName": "NEUER",
+    "fullName": "Neuer",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "hakimi": {
+    "displayName": "HAKIMI",
+    "fullName": "Hakimi",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "frimpong": {
+    "displayName": "FRIMPONG",
+    "fullName": "Frimpong",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "theo_hernandez": {
+    "displayName": "THEO HERNANDEZ",
+    "fullName": "Theo Hernandez",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "grimaldo": {
+    "displayName": "GRIMALDO",
+    "fullName": "Grimaldo",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "dimarco": {
+    "displayName": "DIMARCO",
+    "fullName": "Dimarco",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "rudiger": {
+    "displayName": "RUDIGER",
+    "fullName": "Rudiger",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "araujo": {
+    "displayName": "ARAUJO",
+    "fullName": "Araujo",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "dias": {
+    "displayName": "DIAS",
+    "fullName": "Dias",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "konate": {
+    "displayName": "KONATE",
+    "fullName": "Konate",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "gabriel": {
+    "displayName": "GABRIEL",
+    "fullName": "Gabriel",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "kounde": {
+    "displayName": "KOUNDE",
+    "fullName": "Kounde",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "white": {
+    "displayName": "WHITE",
+    "fullName": "White",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "carvajal": {
+    "displayName": "CARVAJAL",
+    "fullName": "Carvajal",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "trent": {
+    "displayName": "TRENT",
+    "fullName": "Trent",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "gvardiol": {
+    "displayName": "GVARDIOL",
+    "fullName": "Gvardiol",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "rice": {
+    "displayName": "RICE",
+    "fullName": "Rice",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "valverde": {
+    "displayName": "VALVERDE",
+    "fullName": "Valverde",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "de_jong": {
+    "displayName": "DE JONG",
+    "fullName": "De Jong",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "bruno_fernandes": {
+    "displayName": "BRUNO FERNANDES",
+    "fullName": "Bruno Fernandes",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "bernardo_silva": {
+    "displayName": "BERNARDO SILVA",
+    "fullName": "Bernardo Silva",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "odegaard": {
+    "displayName": "ODEGAARD",
+    "fullName": "Odegaard",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "vitinha": {
+    "displayName": "VITINHA",
+    "fullName": "Vitinha",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "caicedo": {
+    "displayName": "CAICEDO",
+    "fullName": "Caicedo",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "mac_allister": {
+    "displayName": "MAC ALLISTER",
+    "fullName": "Mac Allister",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "enzo_fernandez": {
+    "displayName": "ENZO FERNANDEZ",
+    "fullName": "Enzo Fernandez",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "leao": {
+    "displayName": "LEAO",
+    "fullName": "Leao",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "nico_williams": {
+    "displayName": "NICO WILLIAMS",
+    "fullName": "Nico Williams",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "kvaratskhelia": {
+    "displayName": "KVARATSKHELIA",
+    "fullName": "Kvaratskhelia",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "raphinha": {
+    "displayName": "RAPHINHA",
+    "fullName": "Raphinha",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "dembele": {
+    "displayName": "DEMBELE",
+    "fullName": "Dembele",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "olise": {
+    "displayName": "OLISE",
+    "fullName": "Olise",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "son": {
+    "displayName": "SON",
+    "fullName": "Son",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "foden": {
+    "displayName": "FODEN",
+    "fullName": "Foden",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "isak": {
+    "displayName": "ISAK",
+    "fullName": "Isak",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "osimhen": {
+    "displayName": "OSIMHEN",
+    "fullName": "Osimhen",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "alvarez": {
+    "displayName": "ALVAREZ",
+    "fullName": "Alvarez",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "gyokeres": {
+    "displayName": "GYOKERES",
+    "fullName": "Gyokeres",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "lautaro": {
+    "displayName": "LAUTARO",
+    "fullName": "Lautaro",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "retegui": {
+    "displayName": "RETEGUI",
+    "fullName": "Retegui",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "lookman": {
+    "displayName": "LOOKMAN",
+    "fullName": "Lookman",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "marmoush": {
+    "displayName": "MARMOUSH",
+    "fullName": "Marmoush",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "joao_neves": {
+    "displayName": "JOAO NEVES",
+    "fullName": "Joao Neves",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "zubimendi": {
+    "displayName": "ZUBIMENDI",
+    "fullName": "Zubimendi",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "camavinga": {
+    "displayName": "CAMAVINGA",
+    "fullName": "Camavinga",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "tchouameni": {
+    "displayName": "TCHOUAMENI",
+    "fullName": "Tchouameni",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "balde": {
+    "displayName": "BALDE",
+    "fullName": "Balde",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "cubarsi": {
+    "displayName": "CUBARSI",
+    "fullName": "Cubarsi",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "pau_torres": {
+    "displayName": "PAU TORRES",
+    "fullName": "Pau Torres",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "bremer": {
+    "displayName": "BREMER",
+    "fullName": "Bremer",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "inacio": {
+    "displayName": "INACIO",
+    "fullName": "Inacio",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "kim_min_jae": {
+    "displayName": "KIM MIN JAE",
+    "fullName": "Kim Min Jae",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "upamecano": {
+    "displayName": "UPAMECANO",
+    "fullName": "Upamecano",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "timber": {
+    "displayName": "TIMBER",
+    "fullName": "Timber",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "mendes": {
+    "displayName": "MENDES",
+    "fullName": "Mendes",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "ait_nouri": {
+    "displayName": "AIT NOURI",
+    "fullName": "Ait Nouri",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "watkins": {
+    "displayName": "WATKINS",
+    "fullName": "Watkins",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "sesko": {
+    "displayName": "SESKO",
+    "fullName": "Sesko",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "ekitike": {
+    "displayName": "EKITIKE",
+    "fullName": "Ekitike",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "doue": {
+    "displayName": "DOUE",
+    "fullName": "Doue",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "barcola": {
+    "displayName": "BARCOLA",
+    "fullName": "Barcola",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "garnacho": {
+    "displayName": "GARNACHO",
+    "fullName": "Garnacho",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "savinho": {
+    "displayName": "SAVINHO",
+    "fullName": "Savinho",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "doku": {
+    "displayName": "DOKU",
+    "fullName": "Doku",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "adeyemi": {
+    "displayName": "ADEYEMI",
+    "fullName": "Adeyemi",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "xavi_simons": {
+    "displayName": "XAVI SIMONS",
+    "fullName": "Xavi Simons",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "merino": {
+    "displayName": "MERINO",
+    "fullName": "Merino",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "guler": {
+    "displayName": "GULER",
+    "fullName": "Guler",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "mainoo": {
+    "displayName": "MAINOO",
+    "fullName": "Mainoo",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "wharton": {
+    "displayName": "WHARTON",
+    "fullName": "Wharton",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "reijnders": {
+    "displayName": "REIJNDERS",
+    "fullName": "Reijnders",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "frattesi": {
+    "displayName": "FRATTESI",
+    "fullName": "Frattesi",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "locatelli": {
+    "displayName": "LOCATELLI",
+    "fullName": "Locatelli",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "tonali": {
+    "displayName": "TONALI",
+    "fullName": "Tonali",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "hincapie": {
+    "displayName": "HINCAPIE",
+    "fullName": "Hincapie",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+  "player_80": {
+    "displayName": "PLAYER 80",
+    "fullName": "Player 80",
+    "country": "Unknown",
+    "positions": {
+      "primary": "CM",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "01",
+      "skinTone": "Medium",
+      "hair": "ShortFade",
+      "hairColor": "Black"
     }
   }
 }
