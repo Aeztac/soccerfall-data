@@ -1,1 +1,46 @@
-
+{
+  "balanced_6v6": {
+    "name": "Balanced",
+    "slots": [
+      "GK",
+      "LB",
+      "CB",
+      "CAM",
+      "LW",
+      "ST"
+    ]
+  },
+  "attack_6v6": {
+    "name": "Attack",
+    "slots": [
+      "GK",
+      "CB",
+      "CAM",
+      "RW",
+      "LW",
+      "ST"
+    ]
+  },
+  "control_6v6": {
+    "name": "Control",
+    "slots": [
+      "GK",
+      "LB",
+      "CM",
+      "CAM",
+      "RW",
+      "ST"
+    ]
+  },
+  "defensive_6v6": {
+    "name": "Defensive",
+    "slots": [
+      "GK",
+      "LB",
+      "CB",
+      "RB",
+      "CM",
+      "ST"
+    ]
+  }
+}
