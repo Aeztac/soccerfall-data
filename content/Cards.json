@@ -1,1 +1,106 @@
+{
+  "de_gea": {
+    "playerId": "de_gea",
+    "rarity": "Legendary",
+    "overall": 90,
+    "maxLevel": 25,
+    "stats": {
+      "diving": 91,
+      "handling": 89,
+      "kicking": 84,
+      "reflexes": 92,
+      "speed": 60,
+      "positioning": 88
+    }
+  },
 
+  "a_davies": {
+    "playerId": "a_davies",
+    "rarity": "Epic",
+    "overall": 86,
+    "maxLevel": 20,
+    "stats": {
+      "pace": 95,
+      "shooting": 72,
+      "passing": 82,
+      "dribbling": 86,
+      "defending": 82,
+      "physical": 81
+    }
+  },
+
+  "v_dijk": {
+    "playerId": "v_dijk",
+    "rarity": "Legendary",
+    "overall": 91,
+    "maxLevel": 25,
+    "stats": {
+      "pace": 79,
+      "shooting": 62,
+      "passing": 81,
+      "dribbling": 74,
+      "defending": 92,
+      "physical": 90
+    }
+  },
+
+  "messi": {
+    "playerId": "messi",
+    "rarity": "Mythic",
+    "overall": 95,
+    "maxLevel": 30,
+    "stats": {
+      "pace": 88,
+      "shooting": 94,
+      "passing": 96,
+      "dribbling": 98,
+      "defending": 40,
+      "physical": 71
+    }
+  },
+
+  "vini_jr": {
+    "playerId": "vini_jr",
+    "rarity": "Legendary",
+    "overall": 91,
+    "maxLevel": 25,
+    "stats": {
+      "pace": 97,
+      "shooting": 86,
+      "passing": 84,
+      "dribbling": 94,
+      "defending": 32,
+      "physical": 74
+    }
+  },
+
+  "ronaldo": {
+    "playerId": "ronaldo",
+    "rarity": "Mythic",
+    "overall": 95,
+    "maxLevel": 30,
+    "stats": {
+      "pace": 89,
+      "shooting": 97,
+      "passing": 85,
+      "dribbling": 92,
+      "defending": 35,
+      "physical": 88
+    }
+  },
+
+  "yamal": {
+    "playerId": "yamal",
+    "rarity": "Epic",
+    "overall": 85,
+    "maxLevel": 20,
+    "stats": {
+      "pace": 90,
+      "shooting": 79,
+      "passing": 82,
+      "dribbling": 91,
+      "defending": 28,
+      "physical": 63
+    }
+  }
+}
