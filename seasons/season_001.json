@@ -1,1 +1,84 @@
+{
+  "id": "season_001",
+  "name": "Kickoff Season",
+  "active": true,
 
+  "featuredCards": [
+    "messi_ultimate",
+    "ronaldo_ultimate",
+    "r9_legend",
+    "yamal_elite"
+  ],
+
+  "activePacks": [
+    "starter",
+    "bronze",
+    "silver",
+    "gold",
+    "elite",
+    "ultimate"
+  ],
+
+  "featuredPack": "gold",
+
+  "shopDeals": [
+    {
+      "id": "kickoff_gold_bundle",
+      "name": "Kickoff Gold Bundle",
+      "type": "packBundle",
+      "packId": "gold",
+      "quantity": 5,
+      "price": 1999,
+      "currency": "gems",
+      "limitPerPlayer": 1
+    }
+  ],
+
+  "seasonPass": {
+    "id": "kickoff_pass",
+    "name": "Kickoff Pass",
+    "premiumPrice": 799,
+    "currency": "robux",
+
+    "tiers": [
+      {
+        "tier": 1,
+        "xpRequired": 0,
+        "freeReward": {
+          "type": "coins",
+          "amount": 500
+        },
+        "premiumReward": {
+          "type": "pack",
+          "packId": "gold",
+          "quantity": 1
+        }
+      },
+      {
+        "tier": 2,
+        "xpRequired": 500,
+        "freeReward": {
+          "type": "coins",
+          "amount": 750
+        },
+        "premiumReward": {
+          "type": "card",
+          "cardId": "yamal_elite"
+        }
+      }
+    ]
+  },
+
+  "missions": [
+    {
+      "id": "score_25_goals",
+      "name": "Score 25 Goals",
+      "goalType": "score_goals",
+      "target": 25,
+      "reward": {
+        "type": "coins",
+        "amount": 500
+      }
+    }
+  ]
+}
