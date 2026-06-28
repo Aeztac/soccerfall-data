@@ -1,22 +1,112 @@
 {
+  "de_gea": {
+    "displayName": "DE GEA",
+    "fullName": "David de Gea",
+    "country": "ESP",
+    "positions": {
+      "primary": "GK",
+      "secondary": []
+    },
+    "appearance": {
+      "face": "02",
+      "skinTone": "Fair",
+      "hair": "Ponytail",
+      "hairColor": "DarkBrown"
+    }
+  },
+
+  "a_davies": {
+    "displayName": "A. DAVIES",
+    "fullName": "Alphonso Davies",
+    "country": "CAN",
+    "positions": {
+      "primary": "LB",
+      "secondary": ["LW"]
+    },
+    "appearance": {
+      "face": "06",
+      "skinTone": "Dark",
+      "hair": "ShortFade",
+      "hairColor": "Black"
+    }
+  },
+
+  "v_dijk": {
+    "displayName": "V. DIJK",
+    "fullName": "Virgil van Dijk",
+    "country": "NED",
+    "positions": {
+      "primary": "CB",
+      "secondary": ["LB", "RB"]
+    },
+    "appearance": {
+      "face": "08",
+      "skinTone": "Dark",
+      "hair": "ManBun",
+      "hairColor": "Black"
+    }
+  },
+
   "messi": {
     "displayName": "MESSI",
     "fullName": "Lionel Messi",
-
     "country": "ARG",
-
     "positions": {
-      "primary": "RW",
-      "secondary": [
-        "CAM",
-        "ST"
-      ]
+      "primary": "CAM",
+      "secondary": ["RW", "ST"]
     },
-
     "appearance": {
       "face": "03",
       "skinTone": "Light",
       "hair": "ShortFade",
+      "hairColor": "DarkBrown"
+    }
+  },
+
+  "vini_jr": {
+    "displayName": "VINI JR",
+    "fullName": "Vinicius Junior",
+    "country": "BRA",
+    "positions": {
+      "primary": "LW",
+      "secondary": ["RW", "ST"]
+    },
+    "appearance": {
+      "face": "06",
+      "skinTone": "Brown",
+      "hair": "TaperFade",
+      "hairColor": "Black"
+    }
+  },
+
+  "ronaldo": {
+    "displayName": "RONALDO",
+    "fullName": "Cristiano Ronaldo",
+    "country": "POR",
+    "positions": {
+      "primary": "ST",
+      "secondary": ["LW"]
+    },
+    "appearance": {
+      "face": "04",
+      "skinTone": "Tan",
+      "hair": "ShortFade",
+      "hairColor": "DarkBrown"
+    }
+  },
+
+  "yamal": {
+    "displayName": "YAMAL",
+    "fullName": "Lamine Yamal",
+    "country": "ESP",
+    "positions": {
+      "primary": "RW",
+      "secondary": ["LW", "CAM"]
+    },
+    "appearance": {
+      "face": "06",
+      "skinTone": "Brown",
+      "hair": "CurlyShort",
       "hairColor": "DarkBrown"
     }
   }
