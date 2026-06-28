@@ -1,69 +1,67 @@
 {
   "id": "season_001",
   "name": "Kickoff Season",
+
   "active": true,
 
-  "featuredCards": [
-    "messi_ultimate",
-    "ronaldo_ultimate",
-    "r9_legend",
-    "yamal_elite"
-  ],
+  "startDate": "2026-07-01T00:00:00Z",
+  "endDate": "2026-08-01T00:00:00Z",
 
-  "activePacks": [
-    "starter",
-    "bronze",
-    "silver",
-    "gold",
-    "elite",
-    "ultimate"
-  ],
+  "featured": {
+    "cards": [
+      "messi",
+      "ronaldo",
+      "haaland",
+      "mbappe"
+    ],
 
-  "featuredPack": "gold",
+    "pack": "LegendaryPack"
+  },
 
-  "shopDeals": [
-    {
-      "id": "kickoff_gold_bundle",
-      "name": "Kickoff Gold Bundle",
-      "type": "packBundle",
-      "packId": "gold",
-      "quantity": 5,
-      "price": 1999,
-      "currency": "gems",
-      "limitPerPlayer": 1
-    }
-  ],
+  "shop": {
+    "deals": [
+      {
+        "id": "kickoff_bundle",
+        "name": "Kickoff Bundle",
+        "type": "packBundle",
+        "packId": "LegendaryPack",
+        "quantity": 5,
+        "price": 1999,
+        "currency": "Gems",
+        "limitPerPlayer": 1
+      }
+    ]
+  },
 
-  "seasonPass": {
+  "packs": {
+    "active": [
+      "CommonPack",
+      "UncommonPack",
+      "RarePack",
+      "EpicPack",
+      "LegendaryPack",
+      "MythicPack"
+    ]
+  },
+
+  "pass": {
     "id": "kickoff_pass",
     "name": "Kickoff Pass",
     "premiumPrice": 799,
-    "currency": "robux",
+    "currency": "Robux",
 
     "tiers": [
       {
         "tier": 1,
         "xpRequired": 0,
         "freeReward": {
-          "type": "coins",
+          "type": "Coins",
           "amount": 500
         },
         "premiumReward": {
-          "type": "pack",
-          "packId": "gold",
+          "type": "Pack",
+          "id": "RarePack",
           "quantity": 1
-        }
-      },
-      {
-        "tier": 2,
-        "xpRequired": 500,
-        "freeReward": {
-          "type": "coins",
-          "amount": 750
-        },
-        "premiumReward": {
-          "type": "card",
-          "cardId": "yamal_elite"
         }
       }
     ]
@@ -73,10 +71,10 @@
     {
       "id": "score_25_goals",
       "name": "Score 25 Goals",
-      "goalType": "score_goals",
+      "goalType": "scoreGoals",
       "target": 25,
       "reward": {
-        "type": "coins",
+        "type": "Coins",
         "amount": 500
       }
     }
