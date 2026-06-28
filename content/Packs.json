@@ -3,10 +3,14 @@
     "displayName": "Common Pack",
     "description": "Contains 3 Common or better players.",
 
+    "image": "CommonPack",
+
     "currency": "Coins",
     "price": 500,
 
     "cardsPerPack": 3,
+
+    "animation": "Common",
 
     "guaranteed": {
       "Common": 1
@@ -25,11 +29,16 @@
 
   "UncommonPack": {
     "displayName": "Uncommon Pack",
+    "description": "Contains 3 Uncommon or better players.",
+
+    "image": "UncommonPack",
 
     "currency": "Coins",
     "price": 1500,
 
     "cardsPerPack": 3,
+
+    "animation": "Uncommon",
 
     "guaranteed": {
       "Uncommon": 1
@@ -48,11 +57,16 @@
 
   "RarePack": {
     "displayName": "Rare Pack",
+    "description": "Contains 3 Rare or better players.",
+
+    "image": "RarePack",
 
     "currency": "Coins",
     "price": 5000,
 
     "cardsPerPack": 3,
+
+    "animation": "Rare",
 
     "guaranteed": {
       "Rare": 1
@@ -71,11 +85,16 @@
 
   "EpicPack": {
     "displayName": "Epic Pack",
+    "description": "Contains 4 Epic or better players.",
+
+    "image": "EpicPack",
 
     "currency": "Coins",
     "price": 15000,
 
     "cardsPerPack": 4,
+
+    "animation": "Epic",
 
     "guaranteed": {
       "Epic": 1
@@ -94,11 +113,16 @@
 
   "LegendaryPack": {
     "displayName": "Legendary Pack",
+    "description": "Contains 4 Legendary or better players.",
+
+    "image": "LegendaryPack",
 
     "currency": "Gems",
     "price": 500,
 
     "cardsPerPack": 4,
+
+    "animation": "Legendary",
 
     "guaranteed": {
       "Legendary": 1
@@ -117,11 +141,16 @@
 
   "MythicPack": {
     "displayName": "Mythic Pack",
+    "description": "Contains 5 Mythic or better players.",
+
+    "image": "MythicPack",
 
     "currency": "Gems",
     "price": 1200,
 
     "cardsPerPack": 5,
+
+    "animation": "Mythic",
 
     "guaranteed": {
       "Mythic": 1
