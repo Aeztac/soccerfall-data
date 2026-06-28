@@ -1,1 +1,17 @@
+{
+    "id":"ultimate_legend",
 
+    "title":"Ultimate Legend Pack",
+
+    "subtitle":"Guaranteed 90+ Player",
+
+    "background":"ultimate_banner",
+
+    "pack":"ultimate",
+
+    "price":1250,
+
+    "currency":"gems",
+
+    "ends":"2026-07-06T00:00:00Z"
+}
