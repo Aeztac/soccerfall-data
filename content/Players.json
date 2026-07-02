@@ -12,7 +12,8 @@
       "skinTone": "Fair",
       "hair": "Ponytail",
       "hairColor": "DarkBrown"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "a_davies": {
     "displayName": "A. DAVIES",
@@ -29,7 +30,8 @@
       "skinTone": "Dark",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "v_dijk": {
     "displayName": "V. DIJK",
@@ -47,7 +49,8 @@
       "skinTone": "Dark",
       "hair": "ManBun",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "messi": {
     "displayName": "MESSI",
@@ -65,7 +68,8 @@
       "skinTone": "Light",
       "hair": "ShortFade",
       "hairColor": "DarkBrown"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "vini_jr": {
     "displayName": "VINI JR",
@@ -83,7 +87,8 @@
       "skinTone": "Brown",
       "hair": "TaperFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "ronaldo": {
     "displayName": "RONALDO",
@@ -100,7 +105,8 @@
       "skinTone": "Tan",
       "hair": "ShortFade",
       "hairColor": "DarkBrown"
-    }
+    },
+    "playStyle": "Finisher"
   },
   "yamal": {
     "displayName": "YAMAL",
@@ -118,7 +124,8 @@
       "skinTone": "Brown",
       "hair": "CurlyShort",
       "hairColor": "DarkBrown"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "mbappe": {
     "displayName": "MBAPPE",
@@ -133,7 +140,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "haaland": {
     "displayName": "HAALAND",
@@ -148,7 +156,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "TargetMan"
   },
   "bellingham": {
     "displayName": "BELLINGHAM",
@@ -163,7 +172,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "rodri": {
     "displayName": "RODRI",
@@ -178,7 +188,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "DeepPlaymaker"
   },
   "salah": {
     "displayName": "SALAH",
@@ -193,7 +204,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "kane": {
     "displayName": "KANE",
@@ -208,7 +220,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "CompleteForward"
   },
   "pedri": {
     "displayName": "PEDRI",
@@ -223,7 +236,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "musiala": {
     "displayName": "MUSIALA",
@@ -238,7 +252,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "wirtz": {
     "displayName": "WIRTZ",
@@ -253,7 +268,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "palmer": {
     "displayName": "PALMER",
@@ -268,7 +284,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "saka": {
     "displayName": "SAKA",
@@ -283,7 +300,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "courtois": {
     "displayName": "COURTOIS",
@@ -298,7 +316,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "donnarumma": {
     "displayName": "DONNARUMMA",
@@ -313,7 +332,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "alisson": {
     "displayName": "ALISSON",
@@ -328,7 +348,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "ederson": {
     "displayName": "EDERSON",
@@ -343,7 +364,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "ter_stegen": {
     "displayName": "TER STEGEN",
@@ -358,7 +380,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "maignan": {
     "displayName": "MAIGNAN",
@@ -373,7 +396,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "neuer": {
     "displayName": "NEUER",
@@ -388,7 +412,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Goalkeeper"
   },
   "hakimi": {
     "displayName": "HAKIMI",
@@ -403,7 +428,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "frimpong": {
     "displayName": "FRIMPONG",
@@ -418,7 +444,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "theo_hernandez": {
     "displayName": "THEO HERNANDEZ",
@@ -433,7 +460,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "grimaldo": {
     "displayName": "GRIMALDO",
@@ -448,7 +476,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "dimarco": {
     "displayName": "DIMARCO",
@@ -463,7 +492,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "rudiger": {
     "displayName": "RUDIGER",
@@ -478,7 +508,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "araujo": {
     "displayName": "ARAUJO",
@@ -493,7 +524,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "dias": {
     "displayName": "DIAS",
@@ -508,7 +540,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "konate": {
     "displayName": "KONATE",
@@ -523,7 +556,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "gabriel": {
     "displayName": "GABRIEL",
@@ -538,7 +572,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "kounde": {
     "displayName": "KOUNDE",
@@ -553,7 +588,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Balanced"
   },
   "white": {
     "displayName": "WHITE",
@@ -568,7 +604,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Fullback"
   },
   "carvajal": {
     "displayName": "CARVAJAL",
@@ -583,7 +620,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Fullback"
   },
   "trent": {
     "displayName": "TRENT",
@@ -598,7 +636,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "PlaymakerFullback"
   },
   "gvardiol": {
     "displayName": "GVARDIOL",
@@ -613,7 +652,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallPlayingCB"
   },
   "rice": {
     "displayName": "RICE",
@@ -628,7 +668,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallWinner"
   },
   "valverde": {
     "displayName": "VALVERDE",
@@ -643,7 +684,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "de_jong": {
     "displayName": "DE JONG",
@@ -658,7 +700,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "DeepPlaymaker"
   },
   "bruno_fernandes": {
     "displayName": "BRUNO FERNANDES",
@@ -673,7 +716,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "bernardo_silva": {
     "displayName": "BERNARDO SILVA",
@@ -688,7 +732,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "odegaard": {
     "displayName": "ODEGAARD",
@@ -703,7 +748,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "vitinha": {
     "displayName": "VITINHA",
@@ -718,7 +764,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "caicedo": {
     "displayName": "CAICEDO",
@@ -733,7 +780,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallWinner"
   },
   "mac_allister": {
     "displayName": "MAC ALLISTER",
@@ -748,7 +796,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "enzo_fernandez": {
     "displayName": "ENZO FERNANDEZ",
@@ -763,7 +812,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "leao": {
     "displayName": "LEAO",
@@ -778,7 +828,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "nico_williams": {
     "displayName": "NICO WILLIAMS",
@@ -793,7 +844,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "kvaratskhelia": {
     "displayName": "KVARATSKHELIA",
@@ -808,7 +860,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "raphinha": {
     "displayName": "RAPHINHA",
@@ -823,7 +876,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "dembele": {
     "displayName": "DEMBELE",
@@ -838,7 +892,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "olise": {
     "displayName": "OLISE",
@@ -853,7 +908,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "son": {
     "displayName": "SON",
@@ -868,7 +924,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "foden": {
     "displayName": "FODEN",
@@ -883,7 +940,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "isak": {
     "displayName": "ISAK",
@@ -898,7 +956,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "CompleteForward"
   },
   "osimhen": {
     "displayName": "OSIMHEN",
@@ -913,7 +972,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "TargetMan"
   },
   "alvarez": {
     "displayName": "ALVAREZ",
@@ -928,7 +988,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "PressingForward"
   },
   "gyokeres": {
     "displayName": "GYOKERES",
@@ -943,7 +1004,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "TargetMan"
   },
   "lautaro": {
     "displayName": "LAUTARO",
@@ -958,7 +1020,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "PressingForward"
   },
   "retegui": {
     "displayName": "RETEGUI",
@@ -973,7 +1036,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "TargetMan"
   },
   "lookman": {
     "displayName": "LOOKMAN",
@@ -988,7 +1052,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "marmoush": {
     "displayName": "MARMOUSH",
@@ -1003,7 +1068,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "InsideForward"
   },
   "joao_neves": {
     "displayName": "JOAO NEVES",
@@ -1018,7 +1084,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "zubimendi": {
     "displayName": "ZUBIMENDI",
@@ -1033,7 +1100,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "DeepPlaymaker"
   },
   "camavinga": {
     "displayName": "CAMAVINGA",
@@ -1048,7 +1116,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "tchouameni": {
     "displayName": "TCHOUAMENI",
@@ -1063,7 +1132,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallWinner"
   },
   "balde": {
     "displayName": "BALDE",
@@ -1078,7 +1148,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "cubarsi": {
     "displayName": "CUBARSI",
@@ -1093,7 +1164,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallPlayingCB"
   },
   "pau_torres": {
     "displayName": "PAU TORRES",
@@ -1108,7 +1180,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallPlayingCB"
   },
   "bremer": {
     "displayName": "BREMER",
@@ -1123,7 +1196,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "inacio": {
     "displayName": "INACIO",
@@ -1138,7 +1212,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallPlayingCB"
   },
   "kim_min_jae": {
     "displayName": "KIM MIN JAE",
@@ -1153,7 +1228,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "upamecano": {
     "displayName": "UPAMECANO",
@@ -1168,7 +1244,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Stopper"
   },
   "timber": {
     "displayName": "TIMBER",
@@ -1183,7 +1260,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Fullback"
   },
   "mendes": {
     "displayName": "MENDES",
@@ -1198,7 +1276,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "ait_nouri": {
     "displayName": "AIT NOURI",
@@ -1213,7 +1292,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "AttackingFullback"
   },
   "watkins": {
     "displayName": "WATKINS",
@@ -1228,7 +1308,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "PressingForward"
   },
   "sesko": {
     "displayName": "SESKO",
@@ -1243,7 +1324,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "TargetMan"
   },
   "ekitike": {
     "displayName": "EKITIKE",
@@ -1258,7 +1340,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "CompleteForward"
   },
   "doue": {
     "displayName": "DOUE",
@@ -1273,7 +1356,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "barcola": {
     "displayName": "BARCOLA",
@@ -1288,7 +1372,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "garnacho": {
     "displayName": "GARNACHO",
@@ -1303,7 +1388,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "savinho": {
     "displayName": "SAVINHO",
@@ -1318,7 +1404,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "doku": {
     "displayName": "DOKU",
@@ -1333,7 +1420,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "adeyemi": {
     "displayName": "ADEYEMI",
@@ -1348,7 +1436,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Speedster"
   },
   "xavi_simons": {
     "displayName": "XAVI SIMONS",
@@ -1363,7 +1452,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Dribbler"
   },
   "merino": {
     "displayName": "MERINO",
@@ -1378,7 +1468,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "guler": {
     "displayName": "GULER",
@@ -1393,7 +1484,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Playmaker"
   },
   "mainoo": {
     "displayName": "MAINOO",
@@ -1408,7 +1500,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "wharton": {
     "displayName": "WHARTON",
@@ -1423,7 +1516,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "DeepPlaymaker"
   },
   "reijnders": {
     "displayName": "REIJNDERS",
@@ -1438,7 +1532,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "frattesi": {
     "displayName": "FRATTESI",
@@ -1453,7 +1548,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "locatelli": {
     "displayName": "LOCATELLI",
@@ -1468,7 +1564,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "DeepPlaymaker"
   },
   "tonali": {
     "displayName": "TONALI",
@@ -1483,7 +1580,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BoxToBox"
   },
   "hincapie": {
     "displayName": "HINCAPIE",
@@ -1498,7 +1596,8 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "BallPlayingCB"
   },
   "player_80": {
     "displayName": "PLAYER 80",
@@ -1513,6 +1612,7 @@
       "skinTone": "Medium",
       "hair": "ShortFade",
       "hairColor": "Black"
-    }
+    },
+    "playStyle": "Balanced"
   }
 }
