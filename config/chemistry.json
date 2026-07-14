@@ -1,1 +1,20 @@
-
+{
+  "chemistry": {
+    "maxPerLink": 3,
+    "maxTotal": 33,
+    "bonuses": {
+      "sameNation": 1,
+      "sameLeague": 1,
+      "sameClub": 2,
+      "perfectLink": 3
+    },
+    "statBoosts": {
+      "0-10": { "multiplier": 0.90, "label": "Poor Chemistry" },
+      "11-20": { "multiplier": 0.95, "label": "Low Chemistry" },
+      "21-27": { "multiplier": 1.00, "label": "Decent Chemistry" },
+      "28-30": { "multiplier": 1.03, "label": "Good Chemistry" },
+      "31-33": { "multiplier": 1.06, "label": "Perfect Chemistry" }
+    }
+  },
+  "notes": "perfectLink = same nation + same league + same club. Each link between two players is evaluated and the best matching bonus is used. Total chemistry is the sum of all individual link scores across the starting 11."
+}
