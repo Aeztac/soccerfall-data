@@ -1,1 +1,164 @@
-
+[
+  {
+    "id": "legendary_001",
+    "name": "Kylian Mbappe",
+    "position": "ST",
+    "altPositions": ["LW", "CF"],
+    "nationality": "France",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Legendary",
+    "overall": 91,
+    "stats": {
+      "pace": 96,
+      "shooting": 89,
+      "passing": 78,
+      "dribbling": 90,
+      "defending": 36,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [110, 75, 45],
+      "hairStyle": "buzz_cut",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 1.01,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "legendary_002",
+    "name": "Erling Haaland",
+    "position": "ST",
+    "altPositions": [],
+    "nationality": "Norway",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Legendary",
+    "overall": 91,
+    "stats": {
+      "pace": 86,
+      "shooting": 92,
+      "passing": 64,
+      "dribbling": 78,
+      "defending": 42,
+      "physical": 88
+    },
+    "appearance": {
+      "skinTone": [230, 200, 175],
+      "hairStyle": "long_tied",
+      "hairColor": [210, 190, 130],
+      "facialHair": "none",
+      "heightScale": 1.08,
+      "bodyType": "stocky"
+    }
+  },
+  {
+    "id": "legendary_003",
+    "name": "Vinicius Jr",
+    "position": "LW",
+    "altPositions": ["RW", "ST"],
+    "nationality": "Brazil",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Legendary",
+    "overall": 92,
+    "stats": {
+      "pace": 94,
+      "shooting": 84,
+      "passing": 78,
+      "dribbling": 94,
+      "defending": 30,
+      "physical": 66
+    },
+    "appearance": {
+      "skinTone": [110, 70, 40],
+      "hairStyle": "short_curly",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 0.99,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "legendary_004",
+    "name": "Lionel Messi",
+    "position": "RW",
+    "altPositions": ["CAM", "CF"],
+    "nationality": "Argentina",
+    "league": "MLS",
+    "club": "Inter Miami",
+    "rarity": "Legendary",
+    "overall": 88,
+    "stats": {
+      "pace": 70,
+      "shooting": 87,
+      "passing": 88,
+      "dribbling": 93,
+      "defending": 34,
+      "physical": 60
+    },
+    "appearance": {
+      "skinTone": [210, 175, 145],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "beard_full",
+      "heightScale": 0.93,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "legendary_005",
+    "name": "Cristiano Ronaldo",
+    "position": "ST",
+    "altPositions": ["LW", "CF"],
+    "nationality": "Portugal",
+    "league": "Saudi Pro League",
+    "club": "Al Nassr",
+    "rarity": "Legendary",
+    "overall": 86,
+    "stats": {
+      "pace": 72,
+      "shooting": 90,
+      "passing": 74,
+      "dribbling": 80,
+      "defending": 34,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [205, 165, 135],
+      "hairStyle": "short_slicked",
+      "hairColor": [25, 18, 10],
+      "facialHair": "stubble",
+      "heightScale": 1.04,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "legendary_006",
+    "name": "Thibaut Courtois",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Belgium",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Legendary",
+    "overall": 89,
+    "stats": {
+      "pace": 42,
+      "shooting": 12,
+      "passing": 55,
+      "dribbling": 30,
+      "defending": 32,
+      "physical": 82
+    },
+    "appearance": {
+      "skinTone": [225, 195, 165],
+      "hairStyle": "short_straight",
+      "hairColor": [35, 25, 12],
+      "facialHair": "stubble",
+      "heightScale": 1.10,
+      "bodyType": "athletic"
+    }
+  }
+]
