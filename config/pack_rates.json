@@ -1,1 +1,62 @@
-
+{
+  "standard_pack": {
+    "name": "Standard Pack",
+    "cost": { "coins": 5000 },
+    "cardCount": 5,
+    "guarantees": ["1x Rare or higher"],
+    "dropRates": {
+      "Common": 55,
+      "Rare": 30,
+      "Elite": 10,
+      "Epic": 3.5,
+      "Legendary": 1.2,
+      "Icon": 0.25,
+      "Ultimate": 0.05
+    }
+  },
+  "premium_pack": {
+    "name": "Premium Pack",
+    "cost": { "coins": 15000, "gems": 100 },
+    "cardCount": 7,
+    "guarantees": ["1x Elite or higher", "3x Rare or higher"],
+    "dropRates": {
+      "Common": 30,
+      "Rare": 38,
+      "Elite": 20,
+      "Epic": 8,
+      "Legendary": 3,
+      "Icon": 0.8,
+      "Ultimate": 0.2
+    }
+  },
+  "mega_pack": {
+    "name": "Mega Pack",
+    "cost": { "gems": 250 },
+    "cardCount": 10,
+    "guarantees": ["1x Epic or higher", "5x Rare or higher"],
+    "dropRates": {
+      "Common": 15,
+      "Rare": 35,
+      "Elite": 28,
+      "Epic": 14,
+      "Legendary": 6,
+      "Icon": 1.5,
+      "Ultimate": 0.5
+    }
+  },
+  "icon_pack": {
+    "name": "Icon Pack",
+    "cost": { "gems": 500 },
+    "cardCount": 3,
+    "guarantees": ["1x Icon or Ultimate guaranteed"],
+    "dropRates": {
+      "Common": 0,
+      "Rare": 0,
+      "Elite": 10,
+      "Epic": 30,
+      "Legendary": 35,
+      "Icon": 22,
+      "Ultimate": 3
+    }
+  }
+}
