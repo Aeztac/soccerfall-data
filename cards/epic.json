@@ -1,1 +1,164 @@
-
+[
+  {
+    "id": "epic_001",
+    "name": "Jude Bellingham",
+    "position": "CAM",
+    "altPositions": ["CM", "ST"],
+    "nationality": "England",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Epic",
+    "overall": 88,
+    "stats": {
+      "pace": 76,
+      "shooting": 82,
+      "passing": 80,
+      "dribbling": 84,
+      "defending": 70,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [140, 100, 65],
+      "hairStyle": "afro_short",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 1.03,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "epic_002",
+    "name": "Lamine Yamal",
+    "position": "RW",
+    "altPositions": ["LW"],
+    "nationality": "Spain",
+    "league": "La Liga",
+    "club": "Barcelona",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 90,
+      "shooting": 78,
+      "passing": 82,
+      "dribbling": 90,
+      "defending": 28,
+      "physical": 52
+    },
+    "appearance": {
+      "skinTone": [155, 110, 75],
+      "hairStyle": "short_curly",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 0.96,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "epic_003",
+    "name": "Kevin De Bruyne",
+    "position": "CAM",
+    "altPositions": ["CM", "RW"],
+    "nationality": "Belgium",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 89,
+    "stats": {
+      "pace": 70,
+      "shooting": 86,
+      "passing": 92,
+      "dribbling": 84,
+      "defending": 56,
+      "physical": 72
+    },
+    "appearance": {
+      "skinTone": [225, 195, 165],
+      "hairStyle": "short_straight",
+      "hairColor": [180, 140, 80],
+      "facialHair": "stubble",
+      "heightScale": 1.01,
+      "bodyType": "average"
+    }
+  },
+  {
+    "id": "epic_004",
+    "name": "Mohamed Salah",
+    "position": "RW",
+    "altPositions": ["ST"],
+    "nationality": "Egypt",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Epic",
+    "overall": 88,
+    "stats": {
+      "pace": 86,
+      "shooting": 88,
+      "passing": 78,
+      "dribbling": 86,
+      "defending": 38,
+      "physical": 70
+    },
+    "appearance": {
+      "skinTone": [170, 120, 80],
+      "hairStyle": "afro_short",
+      "hairColor": [15, 10, 5],
+      "facialHair": "beard_full",
+      "heightScale": 1.0,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "epic_005",
+    "name": "Florian Wirtz",
+    "position": "CAM",
+    "altPositions": ["CM", "LW"],
+    "nationality": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayer Leverkusen",
+    "rarity": "Epic",
+    "overall": 87,
+    "stats": {
+      "pace": 74,
+      "shooting": 80,
+      "passing": 84,
+      "dribbling": 88,
+      "defending": 42,
+      "physical": 56
+    },
+    "appearance": {
+      "skinTone": [225, 195, 165],
+      "hairStyle": "short_straight",
+      "hairColor": [50, 35, 20],
+      "facialHair": "none",
+      "heightScale": 0.97,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "epic_006",
+    "name": "Gianluigi Donnarumma",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Italy",
+    "league": "Ligue 1",
+    "club": "PSG",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 40,
+      "shooting": 14,
+      "passing": 52,
+      "dribbling": 28,
+      "defending": 30,
+      "physical": 80
+    },
+    "appearance": {
+      "skinTone": [215, 180, 150],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "stubble",
+      "heightScale": 1.09,
+      "bodyType": "athletic"
+    }
+  }
+]
