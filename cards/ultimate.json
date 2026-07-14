@@ -1,1 +1,110 @@
-
+[
+  {
+    "id": "ultimate_001",
+    "name": "Pele",
+    "position": "CF",
+    "altPositions": ["ST", "CAM"],
+    "nationality": "Brazil",
+    "league": "Icon",
+    "club": "Icon",
+    "rarity": "Ultimate",
+    "overall": 98,
+    "stats": {
+      "pace": 92,
+      "shooting": 96,
+      "passing": 90,
+      "dribbling": 96,
+      "defending": 52,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [120, 80, 45],
+      "hairStyle": "afro_short",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 0.99,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "ultimate_002",
+    "name": "Diego Maradona",
+    "position": "CAM",
+    "altPositions": ["CF", "ST"],
+    "nationality": "Argentina",
+    "league": "Icon",
+    "club": "Icon",
+    "rarity": "Ultimate",
+    "overall": 97,
+    "stats": {
+      "pace": 86,
+      "shooting": 92,
+      "passing": 90,
+      "dribbling": 98,
+      "defending": 34,
+      "physical": 68
+    },
+    "appearance": {
+      "skinTone": [195, 155, 120],
+      "hairStyle": "medium_curly",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 0.93,
+      "bodyType": "stocky"
+    }
+  },
+  {
+    "id": "ultimate_003",
+    "name": "Lionel Messi",
+    "position": "RW",
+    "altPositions": ["CAM", "CF"],
+    "nationality": "Argentina",
+    "league": "Icon",
+    "club": "Icon",
+    "rarity": "Ultimate",
+    "overall": 99,
+    "stats": {
+      "pace": 88,
+      "shooting": 94,
+      "passing": 94,
+      "dribbling": 99,
+      "defending": 38,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [210, 175, 145],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "beard_full",
+      "heightScale": 0.93,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "ultimate_004",
+    "name": "Cristiano Ronaldo",
+    "position": "ST",
+    "altPositions": ["LW", "CF"],
+    "nationality": "Portugal",
+    "league": "Icon",
+    "club": "Icon",
+    "rarity": "Ultimate",
+    "overall": 98,
+    "stats": {
+      "pace": 92,
+      "shooting": 96,
+      "passing": 82,
+      "dribbling": 90,
+      "defending": 38,
+      "physical": 86
+    },
+    "appearance": {
+      "skinTone": [205, 165, 135],
+      "hairStyle": "short_slicked",
+      "hairColor": [25, 18, 10],
+      "facialHair": "none",
+      "heightScale": 1.04,
+      "bodyType": "athletic"
+    }
+  }
+]
