@@ -1,1 +1,218 @@
-
+[
+  {
+    "id": "rare_001",
+    "name": "Josko Gvardiol",
+    "position": "CB",
+    "altPositions": ["LB"],
+    "nationality": "Croatia",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Rare",
+    "overall": 80,
+    "stats": {
+      "pace": 72,
+      "shooting": 45,
+      "passing": 62,
+      "dribbling": 64,
+      "defending": 82,
+      "physical": 80
+    },
+    "appearance": {
+      "skinTone": [215, 180, 150],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "none",
+      "heightScale": 1.03,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "rare_002",
+    "name": "Alejandro Garnacho",
+    "position": "LW",
+    "altPositions": ["RW"],
+    "nationality": "Argentina",
+    "league": "Serie A",
+    "club": "Napoli",
+    "rarity": "Rare",
+    "overall": 78,
+    "stats": {
+      "pace": 88,
+      "shooting": 72,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 32,
+      "physical": 60
+    },
+    "appearance": {
+      "skinTone": [200, 160, 125],
+      "hairStyle": "medium_curly",
+      "hairColor": [20, 15, 10],
+      "facialHair": "none",
+      "heightScale": 0.98,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "rare_003",
+    "name": "Declan Rice",
+    "position": "CDM",
+    "altPositions": ["CM", "CB"],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Arsenal",
+    "rarity": "Rare",
+    "overall": 82,
+    "stats": {
+      "pace": 68,
+      "shooting": 64,
+      "passing": 76,
+      "dribbling": 74,
+      "defending": 82,
+      "physical": 80
+    },
+    "appearance": {
+      "skinTone": [225, 190, 160],
+      "hairStyle": "short_straight",
+      "hairColor": [50, 35, 20],
+      "facialHair": "none",
+      "heightScale": 1.04,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "rare_004",
+    "name": "Pedri",
+    "position": "CM",
+    "altPositions": ["CAM"],
+    "nationality": "Spain",
+    "league": "La Liga",
+    "club": "Barcelona",
+    "rarity": "Rare",
+    "overall": 83,
+    "stats": {
+      "pace": 68,
+      "shooting": 66,
+      "passing": 84,
+      "dribbling": 86,
+      "defending": 64,
+      "physical": 58
+    },
+    "appearance": {
+      "skinTone": [210, 175, 145],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "none",
+      "heightScale": 0.97,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "rare_005",
+    "name": "Lisandro Martinez",
+    "position": "CB",
+    "altPositions": ["CDM"],
+    "nationality": "Argentina",
+    "league": "Premier League",
+    "club": "Man United",
+    "rarity": "Rare",
+    "overall": 80,
+    "stats": {
+      "pace": 64,
+      "shooting": 40,
+      "passing": 68,
+      "dribbling": 66,
+      "defending": 82,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [200, 160, 130],
+      "hairStyle": "short_straight",
+      "hairColor": [25, 18, 10],
+      "facialHair": "stubble",
+      "heightScale": 0.95,
+      "bodyType": "stocky"
+    }
+  },
+  {
+    "id": "rare_006",
+    "name": "Luis Diaz",
+    "position": "LW",
+    "altPositions": ["RW", "ST"],
+    "nationality": "Colombia",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Rare",
+    "overall": 81,
+    "stats": {
+      "pace": 86,
+      "shooting": 74,
+      "passing": 70,
+      "dribbling": 82,
+      "defending": 42,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [170, 120, 85],
+      "hairStyle": "afro_short",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 0.98,
+      "bodyType": "lean"
+    }
+  },
+  {
+    "id": "rare_007",
+    "name": "Marc-Andre ter Stegen",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Germany",
+    "league": "La Liga",
+    "club": "Barcelona",
+    "rarity": "Rare",
+    "overall": 82,
+    "stats": {
+      "pace": 38,
+      "shooting": 18,
+      "passing": 65,
+      "dribbling": 32,
+      "defending": 28,
+      "physical": 70
+    },
+    "appearance": {
+      "skinTone": [225, 195, 165],
+      "hairStyle": "short_straight",
+      "hairColor": [45, 35, 20],
+      "facialHair": "stubble",
+      "heightScale": 1.04,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "rare_008",
+    "name": "Bukayo Saka",
+    "position": "RW",
+    "altPositions": ["LW", "RB"],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Arsenal",
+    "rarity": "Rare",
+    "overall": 84,
+    "stats": {
+      "pace": 82,
+      "shooting": 78,
+      "passing": 80,
+      "dribbling": 84,
+      "defending": 56,
+      "physical": 62
+    },
+    "appearance": {
+      "skinTone": [110, 75, 45],
+      "hairStyle": "buzz_cut",
+      "hairColor": [15, 10, 5],
+      "facialHair": "none",
+      "heightScale": 1.0,
+      "bodyType": "lean"
+    }
+  }
+]
