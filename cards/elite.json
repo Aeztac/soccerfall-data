@@ -1,1 +1,164 @@
-
+[
+  {
+    "id": "elite_001",
+    "name": "Bruno Fernandes",
+    "position": "CAM",
+    "altPositions": ["CM"],
+    "nationality": "Portugal",
+    "league": "Premier League",
+    "club": "Man United",
+    "rarity": "Elite",
+    "overall": 85,
+    "stats": {
+      "pace": 68,
+      "shooting": 82,
+      "passing": 86,
+      "dribbling": 82,
+      "defending": 58,
+      "physical": 68
+    },
+    "appearance": {
+      "skinTone": [210, 175, 145],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "beard_short",
+      "heightScale": 1.0,
+      "bodyType": "average"
+    }
+  },
+  {
+    "id": "elite_002",
+    "name": "Lautaro Martinez",
+    "position": "ST",
+    "altPositions": ["CF"],
+    "nationality": "Argentina",
+    "league": "Serie A",
+    "club": "Inter Milan",
+    "rarity": "Elite",
+    "overall": 86,
+    "stats": {
+      "pace": 76,
+      "shooting": 86,
+      "passing": 68,
+      "dribbling": 80,
+      "defending": 38,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [195, 155, 120],
+      "hairStyle": "short_straight",
+      "hairColor": [25, 18, 10],
+      "facialHair": "beard_short",
+      "heightScale": 0.97,
+      "bodyType": "stocky"
+    }
+  },
+  {
+    "id": "elite_003",
+    "name": "Federico Valverde",
+    "position": "CM",
+    "altPositions": ["RW", "CDM"],
+    "nationality": "Uruguay",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Elite",
+    "overall": 86,
+    "stats": {
+      "pace": 82,
+      "shooting": 76,
+      "passing": 78,
+      "dribbling": 80,
+      "defending": 72,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [210, 175, 145],
+      "hairStyle": "short_straight",
+      "hairColor": [35, 25, 12],
+      "facialHair": "stubble",
+      "heightScale": 1.02,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "elite_004",
+    "name": "Virgil van Dijk",
+    "position": "CB",
+    "altPositions": [],
+    "nationality": "Netherlands",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Elite",
+    "overall": 87,
+    "stats": {
+      "pace": 72,
+      "shooting": 48,
+      "passing": 70,
+      "dribbling": 62,
+      "defending": 90,
+      "physical": 86
+    },
+    "appearance": {
+      "skinTone": [120, 80, 50],
+      "hairStyle": "long_tied",
+      "hairColor": [15, 10, 5],
+      "facialHair": "beard_full",
+      "heightScale": 1.08,
+      "bodyType": "stocky"
+    }
+  },
+  {
+    "id": "elite_005",
+    "name": "Rodri",
+    "position": "CDM",
+    "altPositions": ["CM"],
+    "nationality": "Spain",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Elite",
+    "overall": 88,
+    "stats": {
+      "pace": 58,
+      "shooting": 70,
+      "passing": 82,
+      "dribbling": 78,
+      "defending": 84,
+      "physical": 80
+    },
+    "appearance": {
+      "skinTone": [215, 180, 150],
+      "hairStyle": "short_straight",
+      "hairColor": [30, 20, 10],
+      "facialHair": "beard_short",
+      "heightScale": 1.05,
+      "bodyType": "athletic"
+    }
+  },
+  {
+    "id": "elite_006",
+    "name": "Alisson Becker",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Brazil",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Elite",
+    "overall": 87,
+    "stats": {
+      "pace": 42,
+      "shooting": 15,
+      "passing": 60,
+      "dribbling": 35,
+      "defending": 32,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [195, 155, 120],
+      "hairStyle": "short_straight",
+      "hairColor": [40, 25, 12],
+      "facialHair": "beard_full",
+      "heightScale": 1.06,
+      "bodyType": "athletic"
+    }
+  }
+]
