@@ -1,142 +1,249 @@
 [
   {
     "id": "epic_001",
-    "name": "Jude Bellingham",
+    "name": "Jude Belingham",
+    "displayName": "J. Belingham",
+    "kitName": "BELINGHAM",
     "position": "CAM",
-    "altPositions": ["CM", "ST"],
+    "altPositions": [
+      "CM"
+    ],
     "nationality": "England",
     "league": "La Liga",
     "club": "Real Madrid",
     "rarity": "Epic",
     "overall": 88,
     "stats": {
-      "pace": 76,
-      "shooting": 82,
-      "passing": 80,
-      "dribbling": 84,
-      "defending": 70,
-      "physical": 78
+      "pace": 84,
+      "shooting": 89,
+      "passing": 94,
+      "dribbling": 96,
+      "defending": 56,
+      "physical": 75
     },
     "appearance": {
-      "skinTone": [140, 100, 65],
+      "skinTone": [
+        140,
+        100,
+        65
+      ],
+      "face": "face_03",
       "hairStyle": "afro_short",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
       "heightScale": 1.03,
-      "bodyType": "athletic"
+      "widthScale": 1.03,
+      "depthScale": 1.02
     }
   },
   {
     "id": "epic_002",
-    "name": "Lamine Yamal",
+    "name": "Lamine Yamalé",
+    "displayName": "L. Yamalé",
+    "kitName": "YAMALÉ",
     "position": "RW",
-    "altPositions": ["LW"],
+    "altPositions": [
+      "LW"
+    ],
     "nationality": "Spain",
     "league": "La Liga",
     "club": "Barcelona",
     "rarity": "Epic",
-    "overall": 86,
+    "overall": 87,
     "stats": {
-      "pace": 90,
-      "shooting": 78,
-      "passing": 82,
-      "dribbling": 90,
-      "defending": 28,
-      "physical": 52
+      "pace": 91,
+      "shooting": 90,
+      "passing": 84,
+      "dribbling": 96,
+      "defending": 50,
+      "physical": 74
     },
     "appearance": {
-      "skinTone": [155, 110, 75],
-      "hairStyle": "short_curly",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 0.96,
-      "bodyType": "lean"
+      "skinTone": [
+        155,
+        110,
+        75
+      ],
+      "face": "face_01",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.96,
+      "depthScale": 0.96
     }
   },
   {
     "id": "epic_003",
-    "name": "Kevin De Bruyne",
+    "name": "Kevin De Bruyn",
+    "displayName": "K. De Bruyn",
+    "kitName": "BRUYN",
     "position": "CAM",
-    "altPositions": ["CM", "RW"],
+    "altPositions": [
+      "CM"
+    ],
     "nationality": "Belgium",
-    "league": "Premier League",
-    "club": "Man City",
+    "league": "Serie A",
+    "club": "Napoli",
     "rarity": "Epic",
-    "overall": 89,
+    "overall": 87,
     "stats": {
-      "pace": 70,
+      "pace": 83,
       "shooting": 86,
-      "passing": 92,
-      "dribbling": 84,
-      "defending": 56,
+      "passing": 93,
+      "dribbling": 94,
+      "defending": 59,
       "physical": 72
     },
     "appearance": {
-      "skinTone": [225, 195, 165],
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_05",
       "hairStyle": "short_straight",
-      "hairColor": [180, 140, 80],
-      "facialHair": "stubble",
+      "hairColor": [
+        180,
+        140,
+        80
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        155,
+        115,
+        65
+      ],
       "heightScale": 1.01,
-      "bodyType": "average"
+      "widthScale": 1.01,
+      "depthScale": 1.0
     }
   },
   {
     "id": "epic_004",
-    "name": "Mohamed Salah",
+    "name": "Mohamed Sala",
+    "displayName": "M. Sala",
+    "kitName": "SALA",
     "position": "RW",
-    "altPositions": ["ST"],
+    "altPositions": [
+      "LW"
+    ],
     "nationality": "Egypt",
     "league": "Premier League",
     "club": "Liverpool",
     "rarity": "Epic",
     "overall": 88,
     "stats": {
-      "pace": 86,
-      "shooting": 88,
-      "passing": 78,
-      "dribbling": 86,
-      "defending": 38,
-      "physical": 70
+      "pace": 95,
+      "shooting": 89,
+      "passing": 82,
+      "dribbling": 96,
+      "defending": 51,
+      "physical": 75
     },
     "appearance": {
-      "skinTone": [170, 120, 80],
-      "hairStyle": "afro_short",
-      "hairColor": [15, 10, 5],
-      "facialHair": "beard_full",
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "beard_full"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
       "heightScale": 1.0,
-      "bodyType": "lean"
+      "widthScale": 1.0,
+      "depthScale": 0.99
     }
   },
   {
     "id": "epic_005",
-    "name": "Florian Wirtz",
+    "name": "Florian Wirt",
+    "displayName": "F. Wirt",
+    "kitName": "WIRT",
     "position": "CAM",
-    "altPositions": ["CM", "LW"],
+    "altPositions": [
+      "CM"
+    ],
     "nationality": "Germany",
-    "league": "Bundesliga",
-    "club": "Bayer Leverkusen",
+    "league": "Premier League",
+    "club": "Liverpool",
     "rarity": "Epic",
     "overall": 87,
     "stats": {
-      "pace": 74,
-      "shooting": 80,
-      "passing": 84,
-      "dribbling": 88,
-      "defending": 42,
-      "physical": 56
+      "pace": 82,
+      "shooting": 91,
+      "passing": 89,
+      "dribbling": 92,
+      "defending": 57,
+      "physical": 75
     },
     "appearance": {
-      "skinTone": [225, 195, 165],
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
       "hairStyle": "short_straight",
-      "hairColor": [50, 35, 20],
-      "facialHair": "none",
-      "heightScale": 0.97,
-      "bodyType": "lean"
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.01,
+      "depthScale": 0.99
     }
   },
   {
     "id": "epic_006",
-    "name": "Gianluigi Donnarumma",
+    "name": "Gianluigi Donnaruma",
+    "displayName": "G. Donnaruma",
+    "kitName": "DONNARUMA",
     "position": "GK",
     "altPositions": [],
     "nationality": "Italy",
@@ -145,20 +252,1189 @@
     "rarity": "Epic",
     "overall": 86,
     "stats": {
-      "pace": 40,
-      "shooting": 14,
-      "passing": 52,
-      "dribbling": 28,
-      "defending": 30,
-      "physical": 80
+      "pace": 48,
+      "shooting": 24,
+      "passing": 64,
+      "dribbling": 43,
+      "defending": 38,
+      "physical": 77
     },
     "appearance": {
-      "skinTone": [215, 180, 150],
-      "hairStyle": "short_straight",
-      "hairColor": [30, 20, 10],
-      "facialHair": "stubble",
-      "heightScale": 1.09,
-      "bodyType": "athletic"
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_06",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "epic_007",
+    "name": "Thibaut Courtoix",
+    "displayName": "T. Courtoix",
+    "kitName": "COURTOIX",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Belgium",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Epic",
+    "overall": 88,
+    "stats": {
+      "pace": 52,
+      "shooting": 27,
+      "passing": 63,
+      "dribbling": 40,
+      "defending": 44,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_10",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.05,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "epic_008",
+    "name": "Alison Becker",
+    "displayName": "A. Becker",
+    "kitName": "BECKER",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Brazil",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Epic",
+    "overall": 87,
+    "stats": {
+      "pace": 52,
+      "shooting": 26,
+      "passing": 63,
+      "dribbling": 44,
+      "defending": 39,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_10",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.04,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "epic_009",
+    "name": "Virgil van Dyke",
+    "displayName": "V. van Dyke",
+    "kitName": "DYKE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Netherlands",
+    "league": "Premier League",
+    "club": "Liverpool",
+    "rarity": "Epic",
+    "overall": 88,
+    "stats": {
+      "pace": 76,
+      "shooting": 59,
+      "passing": 72,
+      "dribbling": 71,
+      "defending": 95,
+      "physical": 88
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_08",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "beard_full"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.08,
+      "widthScale": 1.05,
+      "depthScale": 1.05
+    }
+  },
+  {
+    "id": "epic_010",
+    "name": "Ruben Diase",
+    "displayName": "R. Diase",
+    "kitName": "DIASE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Portugal",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 75,
+      "shooting": 55,
+      "passing": 68,
+      "dribbling": 66,
+      "defending": 89,
+      "physical": 91
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_06",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.05,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "epic_011",
+    "name": "Marquinhoen",
+    "displayName": "Marquinhoen",
+    "kitName": "MARQUINHOEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Brazil",
+    "league": "Ligue 1",
+    "club": "PSG",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 77,
+      "shooting": 54,
+      "passing": 73,
+      "dribbling": 65,
+      "defending": 90,
+      "physical": 92
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_04",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.04,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "epic_012",
+    "name": "Jonathan Tahe",
+    "displayName": "J. Tahe",
+    "kitName": "TAHE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayern Munich",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 72,
+      "shooting": 55,
+      "passing": 73,
+      "dribbling": 64,
+      "defending": 91,
+      "physical": 89
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.01,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "epic_013",
+    "name": "Joshua Kimmicen",
+    "displayName": "J. Kimmicen",
+    "kitName": "KIMMICEN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayern Munich",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 79,
+      "shooting": 74,
+      "passing": 81,
+      "dribbling": 80,
+      "defending": 90,
+      "physical": 91
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.05,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "epic_014",
+    "name": "Federico Valverdi",
+    "displayName": "F. Valverdi",
+    "kitName": "VALVERDI",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Uruguay",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Epic",
+    "overall": 87,
+    "stats": {
+      "pace": 80,
+      "shooting": 78,
+      "passing": 92,
+      "dribbling": 86,
+      "defending": 77,
+      "physical": 81
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_09",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.98,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "epic_015",
+    "name": "Bernardo Silvae",
+    "displayName": "B. Silvae",
+    "kitName": "SILVAE",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Portugal",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 86,
+      "shooting": 90,
+      "passing": 87,
+      "dribbling": 92,
+      "defending": 58,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.02,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "epic_016",
+    "name": "Jamal Musialen",
+    "displayName": "J. Musialen",
+    "kitName": "MUSIALEN",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Germany",
+    "league": "Bundesliga",
+    "club": "Bayern Munich",
+    "rarity": "Epic",
+    "overall": 87,
+    "stats": {
+      "pace": 83,
+      "shooting": 86,
+      "passing": 92,
+      "dribbling": 90,
+      "defending": 60,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_04",
+      "hairStyle": "medium_wavy",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.0,
+      "depthScale": 0.97
+    }
+  },
+  {
+    "id": "epic_017",
+    "name": "Xavi Simonse",
+    "displayName": "X. Simonse",
+    "kitName": "SIMONSE",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Netherlands",
+    "league": "Bundesliga",
+    "club": "RB Leipzig",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 86,
+      "shooting": 85,
+      "passing": 86,
+      "dribbling": 87,
+      "defending": 55,
+      "physical": 69
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_04",
+      "hairStyle": "medium_wavy",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.02,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "epic_018",
+    "name": "Phil Fodene",
+    "displayName": "P. Fodene",
+    "kitName": "FODENE",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 87,
+      "shooting": 84,
+      "passing": 93,
+      "dribbling": 94,
+      "defending": 57,
+      "physical": 69
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.0,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "epic_019",
+    "name": "Vinicio Junior",
+    "displayName": "V. Junior",
+    "kitName": "JUNIOR",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "Brazil",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Epic",
+    "overall": 89,
+    "stats": {
+      "pace": 97,
+      "shooting": 92,
+      "passing": 83,
+      "dribbling": 92,
+      "defending": 51,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        110,
+        70,
+        40
+      ],
+      "face": "face_10",
+      "hairStyle": "fade",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.98,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "epic_020",
+    "name": "Kylian Mbape",
+    "displayName": "K. Mbape",
+    "kitName": "MBAPE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "France",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Epic",
+    "overall": 89,
+    "stats": {
+      "pace": 92,
+      "shooting": 96,
+      "passing": 80,
+      "dribbling": 85,
+      "defending": 46,
+      "physical": 92
+    },
+    "appearance": {
+      "skinTone": [
+        110,
+        75,
+        45
+      ],
+      "face": "face_06",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.03,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "epic_021",
+    "name": "Erling Haland",
+    "displayName": "E. Haland",
+    "kitName": "HALAND",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Norway",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 89,
+    "stats": {
+      "pace": 93,
+      "shooting": 93,
+      "passing": 79,
+      "dribbling": 85,
+      "defending": 49,
+      "physical": 86
+    },
+    "appearance": {
+      "skinTone": [
+        230,
+        200,
+        175
+      ],
+      "face": "face_02",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        210,
+        190,
+        130
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.08,
+      "widthScale": 1.06,
+      "depthScale": 1.05
+    }
+  },
+  {
+    "id": "epic_022",
+    "name": "Rafinha",
+    "displayName": "Rafinha",
+    "kitName": "RAFINHA",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "Brazil",
+    "league": "La Liga",
+    "club": "Barcelona",
+    "rarity": "Epic",
+    "overall": 87,
+    "stats": {
+      "pace": 94,
+      "shooting": 85,
+      "passing": 80,
+      "dribbling": 92,
+      "defending": 49,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_02",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 0.98,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "epic_023",
+    "name": "Antoine Griezmanen",
+    "displayName": "A. Griezmanen",
+    "kitName": "GRIEZMANEN",
+    "position": "CF",
+    "altPositions": [
+      "ST"
+    ],
+    "nationality": "France",
+    "league": "La Liga",
+    "club": "Atletico Madrid",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 88,
+      "shooting": 94,
+      "passing": 83,
+      "dribbling": 87,
+      "defending": 48,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_10",
+      "hairStyle": "medium_wavy",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.98,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "epic_024",
+    "name": "Paulo Dybalae",
+    "displayName": "P. Dybalae",
+    "kitName": "DYBALAE",
+    "position": "CF",
+    "altPositions": [
+      "ST"
+    ],
+    "nationality": "Argentina",
+    "league": "Serie A",
+    "club": "Roma",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 90,
+      "shooting": 91,
+      "passing": 85,
+      "dribbling": 87,
+      "defending": 50,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_05",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.0,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "epic_025",
+    "name": "Neymar Juniore",
+    "displayName": "N. Juniore",
+    "kitName": "JUNIORE",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "Brazil",
+    "league": "Brasileirao",
+    "club": "Santos",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 90,
+      "shooting": 83,
+      "passing": 82,
+      "dribbling": 89,
+      "defending": 48,
+      "physical": 72
+    },
+    "appearance": {
+      "skinTone": [
+        175,
+        125,
+        90
+      ],
+      "face": "face_03",
+      "hairStyle": "fade",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        30,
+        20,
+        12
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.98,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "epic_026",
+    "name": "Bruno Fernandesz",
+    "displayName": "B. Fernandesz",
+    "kitName": "FERNANDESZ",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Portugal",
+    "league": "Premier League",
+    "club": "Man United",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 84,
+      "shooting": 90,
+      "passing": 87,
+      "dribbling": 88,
+      "defending": 58,
+      "physical": 68
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_09",
+      "hairStyle": "cornrows",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.02,
+      "widthScale": 0.99,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "epic_027",
+    "name": "Rodriq",
+    "displayName": "Rodriq",
+    "kitName": "RODRIQ",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Spain",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Epic",
+    "overall": 88,
+    "stats": {
+      "pace": 78,
+      "shooting": 72,
+      "passing": 88,
+      "dribbling": 81,
+      "defending": 88,
+      "physical": 91
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_03",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "epic_028",
+    "name": "Vitinhen",
+    "displayName": "Vitinhen",
+    "kitName": "VITINHEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Portugal",
+    "league": "Ligue 1",
+    "club": "PSG",
+    "rarity": "Epic",
+    "overall": 86,
+    "stats": {
+      "pace": 77,
+      "shooting": 78,
+      "passing": 87,
+      "dribbling": 89,
+      "defending": 81,
+      "physical": 82
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_04",
+      "hairStyle": "cornrows",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.02,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "epic_029",
+    "name": "Joao Nevese",
+    "displayName": "J. Nevese",
+    "kitName": "NEVESE",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Portugal",
+    "league": "Ligue 1",
+    "club": "PSG",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 79,
+      "shooting": 79,
+      "passing": 88,
+      "dribbling": 85,
+      "defending": 75,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_09",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.01,
+      "depthScale": 0.99
+    }
+  },
+  {
+    "id": "epic_030",
+    "name": "Sandro Tonalie",
+    "displayName": "S. Tonalie",
+    "kitName": "TONALIE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Italy",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Epic",
+    "overall": 85,
+    "stats": {
+      "pace": 76,
+      "shooting": 72,
+      "passing": 84,
+      "dribbling": 76,
+      "defending": 90,
+      "physical": 84
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_03",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.03,
+      "depthScale": 1.01
     }
   }
 ]
