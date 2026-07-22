@@ -1,164 +1,577 @@
 [
   {
     "id": "legendary_001",
-    "name": "Kylian Mbappe",
-    "position": "ST",
-    "altPositions": ["LW", "CF"],
+    "name": "Zinedine Zidan",
+    "displayName": "Z. Zidan",
+    "kitName": "ZIDAN",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
     "nationality": "France",
-    "league": "La Liga",
-    "club": "Real Madrid",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 91,
+    "overall": 95,
     "stats": {
-      "pace": 96,
-      "shooting": 89,
-      "passing": 78,
-      "dribbling": 90,
-      "defending": 36,
-      "physical": 76
+      "pace": 91,
+      "shooting": 96,
+      "passing": 96,
+      "dribbling": 99,
+      "defending": 67,
+      "physical": 83
     },
     "appearance": {
-      "skinTone": [110, 75, 45],
-      "hairStyle": "buzz_cut",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 1.01,
-      "bodyType": "athletic"
+      "skinTone": [
+        200,
+        160,
+        130
+      ],
+      "face": "face_05",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        30,
+        25
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.03,
+      "depthScale": 1.02
     }
   },
   {
     "id": "legendary_002",
-    "name": "Erling Haaland",
+    "name": "Ronaldoz Nazario",
+    "displayName": "R. Nazario",
+    "kitName": "NAZARIO",
     "position": "ST",
-    "altPositions": [],
-    "nationality": "Norway",
-    "league": "Premier League",
-    "club": "Man City",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Brazil",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 91,
+    "overall": 95,
     "stats": {
-      "pace": 86,
-      "shooting": 92,
-      "passing": 64,
-      "dribbling": 78,
-      "defending": 42,
-      "physical": 88
+      "pace": 93,
+      "shooting": 99,
+      "passing": 84,
+      "dribbling": 96,
+      "defending": 53,
+      "physical": 94
     },
     "appearance": {
-      "skinTone": [230, 200, 175],
-      "hairStyle": "long_tied",
-      "hairColor": [210, 190, 130],
-      "facialHair": "none",
-      "heightScale": 1.08,
-      "bodyType": "stocky"
+      "skinTone": [
+        155,
+        110,
+        70
+      ],
+      "face": "face_08",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.05,
+      "depthScale": 1.04
     }
   },
   {
     "id": "legendary_003",
-    "name": "Vinicius Jr",
+    "name": "Ronaldino",
+    "displayName": "Ronaldino",
+    "kitName": "RONALDINO",
     "position": "LW",
-    "altPositions": ["RW", "ST"],
+    "altPositions": [
+      "RW"
+    ],
     "nationality": "Brazil",
-    "league": "La Liga",
-    "club": "Real Madrid",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 92,
+    "overall": 94,
     "stats": {
-      "pace": 94,
-      "shooting": 84,
-      "passing": 78,
-      "dribbling": 94,
-      "defending": 30,
-      "physical": 66
+      "pace": 99,
+      "shooting": 97,
+      "passing": 93,
+      "dribbling": 98,
+      "defending": 56,
+      "physical": 78
     },
     "appearance": {
-      "skinTone": [110, 70, 40],
-      "hairStyle": "short_curly",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 0.99,
-      "bodyType": "lean"
+      "skinTone": [
+        145,
+        100,
+        65
+      ],
+      "face": "face_09",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.0,
+      "depthScale": 0.99
     }
   },
   {
     "id": "legendary_004",
-    "name": "Lionel Messi",
-    "position": "RW",
-    "altPositions": ["CAM", "CF"],
-    "nationality": "Argentina",
-    "league": "MLS",
-    "club": "Inter Miami",
+    "name": "Thierry Henri",
+    "displayName": "T. Henri",
+    "kitName": "HENRI",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "France",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 88,
+    "overall": 94,
     "stats": {
-      "pace": 70,
-      "shooting": 87,
-      "passing": 88,
-      "dribbling": 93,
-      "defending": 34,
-      "physical": 60
+      "pace": 98,
+      "shooting": 98,
+      "passing": 84,
+      "dribbling": 94,
+      "defending": 57,
+      "physical": 96
     },
     "appearance": {
-      "skinTone": [210, 175, 145],
-      "hairStyle": "short_straight",
-      "hairColor": [30, 20, 10],
-      "facialHair": "beard_full",
-      "heightScale": 0.93,
-      "bodyType": "lean"
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_04",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.04,
+      "depthScale": 1.03
     }
   },
   {
     "id": "legendary_005",
-    "name": "Cristiano Ronaldo",
-    "position": "ST",
-    "altPositions": ["LW", "CF"],
-    "nationality": "Portugal",
-    "league": "Saudi Pro League",
-    "club": "Al Nassr",
+    "name": "Paolo Maldino",
+    "displayName": "P. Maldino",
+    "kitName": "MALDINO",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Italy",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 86,
+    "overall": 94,
     "stats": {
-      "pace": 72,
-      "shooting": 90,
-      "passing": 74,
-      "dribbling": 80,
-      "defending": 34,
-      "physical": 76
+      "pace": 86,
+      "shooting": 65,
+      "passing": 80,
+      "dribbling": 71,
+      "defending": 97,
+      "physical": 99
     },
     "appearance": {
-      "skinTone": [205, 165, 135],
-      "hairStyle": "short_slicked",
-      "hairColor": [25, 18, 10],
-      "facialHair": "stubble",
+      "skinTone": [
+        215,
+        180,
+        150
+      ],
+      "face": "face_07",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        30,
+        20,
+        10
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
       "heightScale": 1.04,
-      "bodyType": "athletic"
+      "widthScale": 1.02,
+      "depthScale": 1.01
     }
   },
   {
     "id": "legendary_006",
-    "name": "Thibaut Courtois",
+    "name": "Johan Cruif",
+    "displayName": "J. Cruif",
+    "kitName": "CRUIF",
+    "position": "CF",
+    "altPositions": [
+      "ST"
+    ],
+    "nationality": "Netherlands",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 95,
+    "stats": {
+      "pace": 95,
+      "shooting": 97,
+      "passing": 96,
+      "dribbling": 97,
+      "defending": 59,
+      "physical": 86
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 0.98,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "legendary_007",
+    "name": "Franz Beckenbaur",
+    "displayName": "F. Beckenbaur",
+    "kitName": "BECKENBAUR",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Germany",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 95,
+    "stats": {
+      "pace": 82,
+      "shooting": 64,
+      "passing": 83,
+      "dribbling": 73,
+      "defending": 98,
+      "physical": 98
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_07",
+      "hairStyle": "twists",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.04,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "legendary_008",
+    "name": "George Beste",
+    "displayName": "G. Beste",
+    "kitName": "BESTE",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Northern Ireland",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 94,
+    "stats": {
+      "pace": 99,
+      "shooting": 97,
+      "passing": 89,
+      "dribbling": 99,
+      "defending": 60,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_02",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.01,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "legendary_009",
+    "name": "Eusebien",
+    "displayName": "Eusebien",
+    "kitName": "EUSEBIEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Portugal",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 94,
+    "stats": {
+      "pace": 97,
+      "shooting": 99,
+      "passing": 83,
+      "dribbling": 93,
+      "defending": 51,
+      "physical": 92
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_07",
+      "hairStyle": "cornrows",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.01,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "legendary_010",
+    "name": "Xavi Hernandeen",
+    "displayName": "X. Hernandeen",
+    "kitName": "HERNANDEEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Spain",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 94,
+    "stats": {
+      "pace": 85,
+      "shooting": 88,
+      "passing": 94,
+      "dribbling": 93,
+      "defending": 87,
+      "physical": 86
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_08",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.99,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "legendary_011",
+    "name": "Andres Iniestá",
+    "displayName": "A. Iniestá",
+    "kitName": "INIESTÁ",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Spain",
+    "league": "Legend",
+    "club": "Legend",
+    "rarity": "Legendary",
+    "overall": 94,
+    "stats": {
+      "pace": 88,
+      "shooting": 88,
+      "passing": 95,
+      "dribbling": 97,
+      "defending": 87,
+      "physical": 84
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_05",
+      "hairStyle": "braids",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.99,
+      "depthScale": 0.99
+    }
+  },
+  {
+    "id": "legendary_012",
+    "name": "Lev Yashyn",
+    "displayName": "L. Yashyn",
+    "kitName": "YASHYN",
     "position": "GK",
     "altPositions": [],
-    "nationality": "Belgium",
-    "league": "La Liga",
-    "club": "Real Madrid",
+    "nationality": "Soviet Union",
+    "league": "Legend",
+    "club": "Legend",
     "rarity": "Legendary",
-    "overall": 89,
+    "overall": 95,
     "stats": {
-      "pace": 42,
-      "shooting": 12,
-      "passing": 55,
-      "dribbling": 30,
-      "defending": 32,
+      "pace": 55,
+      "shooting": 33,
+      "passing": 69,
+      "dribbling": 47,
+      "defending": 49,
       "physical": 82
     },
     "appearance": {
-      "skinTone": [225, 195, 165],
-      "hairStyle": "short_straight",
-      "hairColor": [35, 25, 12],
-      "facialHair": "stubble",
-      "heightScale": 1.10,
-      "bodyType": "athletic"
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_08",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.03,
+      "depthScale": 1.03
     }
   }
 ]
