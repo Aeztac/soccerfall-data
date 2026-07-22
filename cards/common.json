@@ -1,196 +1,345 @@
 [
   {
     "id": "common_001",
-    "name": "James Ward-Prowse",
+    "name": "James Ward-Prowsen",
+    "displayName": "J. Ward-Prowsen",
+    "kitName": "WARD-PROWSEN",
     "position": "CM",
-    "altPositions": ["CDM"],
+    "altPositions": [
+      "CDM"
+    ],
     "nationality": "England",
     "league": "Premier League",
     "club": "Nottingham Forest",
     "rarity": "Common",
     "overall": 72,
     "stats": {
-      "pace": 52,
-      "shooting": 70,
-      "passing": 79,
-      "dribbling": 68,
-      "defending": 62,
-      "physical": 66
+      "pace": 69,
+      "shooting": 61,
+      "passing": 72,
+      "dribbling": 70,
+      "defending": 66,
+      "physical": 63
     },
     "appearance": {
-      "skinTone": [225, 190, 160],
-      "hairStyle": "short_straight",
-      "hairColor": [60, 40, 20],
-      "facialHair": "none",
-      "heightScale": 1.0,
-      "bodyType": "average"
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_02",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.02,
+      "depthScale": 1.02
     }
   },
   {
     "id": "common_002",
-    "name": "Weston McKennie",
+    "name": "Weston McKennien",
+    "displayName": "W. McKennien",
+    "kitName": "MCKENNIEN",
     "position": "CM",
-    "altPositions": ["CDM", "RB"],
+    "altPositions": [
+      "CDM"
+    ],
     "nationality": "USA",
     "league": "Serie A",
     "club": "Juventus",
     "rarity": "Common",
     "overall": 74,
     "stats": {
-      "pace": 70,
-      "shooting": 64,
-      "passing": 66,
-      "dribbling": 69,
-      "defending": 72,
-      "physical": 78
+      "pace": 65,
+      "shooting": 65,
+      "passing": 75,
+      "dribbling": 77,
+      "defending": 67,
+      "physical": 64
     },
     "appearance": {
-      "skinTone": [140, 100, 70],
-      "hairStyle": "buzz_cut",
-      "hairColor": [20, 15, 10],
-      "facialHair": "none",
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_01",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
       "heightScale": 1.0,
-      "bodyType": "athletic"
+      "widthScale": 0.99,
+      "depthScale": 1.0
     }
   },
   {
     "id": "common_003",
-    "name": "Lewis Dunk",
+    "name": "Lewis Dunke",
+    "displayName": "L. Dunke",
+    "kitName": "DUNKE",
     "position": "CB",
-    "altPositions": [],
+    "altPositions": [
+      "LB"
+    ],
     "nationality": "England",
     "league": "Premier League",
     "club": "Brighton",
     "rarity": "Common",
     "overall": 73,
     "stats": {
-      "pace": 48,
-      "shooting": 42,
+      "pace": 63,
+      "shooting": 45,
       "passing": 58,
-      "dribbling": 48,
-      "defending": 78,
+      "dribbling": 53,
+      "defending": 76,
       "physical": 76
     },
     "appearance": {
-      "skinTone": [225, 195, 165],
-      "hairStyle": "short_straight",
-      "hairColor": [50, 35, 20],
-      "facialHair": "stubble",
-      "heightScale": 1.05,
-      "bodyType": "stocky"
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_01",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.04,
+      "depthScale": 1.02
     }
   },
   {
     "id": "common_004",
-    "name": "Yunus Musah",
+    "name": "Yunus Musahe",
+    "displayName": "Y. Musahe",
+    "kitName": "MUSAHE",
     "position": "CM",
-    "altPositions": ["RM"],
+    "altPositions": [
+      "CDM"
+    ],
     "nationality": "USA",
     "league": "Serie A",
     "club": "AC Milan",
     "rarity": "Common",
     "overall": 73,
     "stats": {
-      "pace": 74,
-      "shooting": 58,
-      "passing": 67,
-      "dribbling": 74,
-      "defending": 64,
-      "physical": 72
+      "pace": 64,
+      "shooting": 63,
+      "passing": 76,
+      "dribbling": 75,
+      "defending": 65,
+      "physical": 63
     },
     "appearance": {
-      "skinTone": [120, 80, 50],
-      "hairStyle": "afro_short",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 1.0,
-      "bodyType": "lean"
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_01",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.01,
+      "depthScale": 0.97
     }
   },
   {
     "id": "common_005",
-    "name": "Fabian Schar",
+    "name": "Fabian Schare",
+    "displayName": "F. Schare",
+    "kitName": "SCHARE",
     "position": "CB",
-    "altPositions": [],
+    "altPositions": [
+      "LB"
+    ],
     "nationality": "Switzerland",
     "league": "Premier League",
     "club": "Newcastle",
     "rarity": "Common",
     "overall": 74,
     "stats": {
-      "pace": 55,
-      "shooting": 52,
-      "passing": 63,
-      "dribbling": 56,
+      "pace": 64,
+      "shooting": 46,
+      "passing": 59,
+      "dribbling": 54,
       "defending": 78,
-      "physical": 74
+      "physical": 76
     },
     "appearance": {
-      "skinTone": [220, 185, 155],
-      "hairStyle": "short_straight",
-      "hairColor": [40, 30, 15],
-      "facialHair": "beard_short",
-      "heightScale": 1.03,
-      "bodyType": "stocky"
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_07",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.05,
+      "depthScale": 1.01
     }
   },
   {
     "id": "common_006",
-    "name": "Antonee Robinson",
+    "name": "Antonee Robinsoen",
+    "displayName": "A. Robinsoen",
+    "kitName": "ROBINSOEN",
     "position": "LB",
-    "altPositions": ["LWB"],
+    "altPositions": [
+      "LWB"
+    ],
     "nationality": "USA",
     "league": "Premier League",
     "club": "Fulham",
     "rarity": "Common",
     "overall": 74,
     "stats": {
-      "pace": 82,
-      "shooting": 48,
-      "passing": 68,
-      "dribbling": 70,
-      "defending": 72,
-      "physical": 70
+      "pace": 80,
+      "shooting": 57,
+      "passing": 65,
+      "dribbling": 71,
+      "defending": 77,
+      "physical": 74
     },
     "appearance": {
-      "skinTone": [100, 65, 40],
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
       "hairStyle": "buzz_cut",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 1.0,
-      "bodyType": "lean"
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.99,
+      "depthScale": 0.98
     }
   },
   {
     "id": "common_007",
-    "name": "Mateo Kovacic",
+    "name": "Mateo Kovacien",
+    "displayName": "M. Kovacien",
+    "kitName": "KOVACIEN",
     "position": "CM",
-    "altPositions": ["CDM"],
+    "altPositions": [
+      "CDM"
+    ],
     "nationality": "Croatia",
     "league": "Premier League",
     "club": "Man City",
     "rarity": "Common",
     "overall": 75,
     "stats": {
-      "pace": 64,
-      "shooting": 60,
-      "passing": 78,
-      "dribbling": 80,
-      "defending": 65,
-      "physical": 68
+      "pace": 70,
+      "shooting": 67,
+      "passing": 76,
+      "dribbling": 77,
+      "defending": 68,
+      "physical": 67
     },
     "appearance": {
-      "skinTone": [220, 185, 155],
-      "hairStyle": "medium_wavy",
-      "hairColor": [30, 20, 10],
-      "facialHair": "stubble",
-      "heightScale": 1.0,
-      "bodyType": "average"
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.02,
+      "depthScale": 0.99
     }
   },
   {
     "id": "common_008",
-    "name": "Emiliano Martinez",
+    "name": "Emiliano Martines",
+    "displayName": "E. Martines",
+    "kitName": "MARTINES",
     "position": "GK",
     "altPositions": [],
     "nationality": "Argentina",
@@ -199,20 +348,3484 @@
     "rarity": "Common",
     "overall": 75,
     "stats": {
-      "pace": 40,
-      "shooting": 20,
-      "passing": 55,
+      "pace": 39,
+      "shooting": 16,
+      "passing": 49,
+      "dribbling": 29,
+      "defending": 28,
+      "physical": 61
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_09",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.02,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_009",
+    "name": "Jordan Pickforen",
+    "displayName": "J. Pickforen",
+    "kitName": "PICKFOREN",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Everton",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 39,
+      "shooting": 12,
+      "passing": 48,
       "dribbling": 30,
+      "defending": 33,
+      "physical": 65
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_07",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.02,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_010",
+    "name": "Bernd Lenoe",
+    "displayName": "B. Lenoe",
+    "kitName": "LENOE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Germany",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 34,
+      "shooting": 17,
+      "passing": 48,
+      "dribbling": 32,
+      "defending": 32,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.04,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_011",
+    "name": "Nick Popee",
+    "displayName": "N. Popee",
+    "kitName": "POPEE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 39,
+      "shooting": 12,
+      "passing": 46,
+      "dribbling": 31,
       "defending": 30,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_06",
+      "hairStyle": "fade",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.04,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_012",
+    "name": "Netoe",
+    "displayName": "Netoe",
+    "kitName": "NETOE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Brazil",
+    "league": "Premier League",
+    "club": "Bournemouth",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 38,
+      "shooting": 13,
+      "passing": 49,
+      "dribbling": 29,
+      "defending": 29,
+      "physical": 62
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.02,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_013",
+    "name": "Dean Hendersoen",
+    "displayName": "D. Hendersoen",
+    "kitName": "HENDERSOEN",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Crystal Palace",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 33,
+      "shooting": 16,
+      "passing": 51,
+      "dribbling": 32,
+      "defending": 29,
+      "physical": 65
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_03",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.05,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_014",
+    "name": "Matz Selse",
+    "displayName": "M. Selse",
+    "kitName": "SELSE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Belgium",
+    "league": "Premier League",
+    "club": "Nottingham Forest",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 33,
+      "shooting": 11,
+      "passing": 52,
+      "dribbling": 31,
+      "defending": 28,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_02",
+      "hairStyle": "short_straight",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.04,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_015",
+    "name": "Conor Coadye",
+    "displayName": "C. Coadye",
+    "kitName": "COADYE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Leicester",
+    "rarity": "Common",
+    "overall": 71,
+    "stats": {
+      "pace": 60,
+      "shooting": 38,
+      "passing": 55,
+      "dribbling": 54,
+      "defending": 79,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_02",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.01,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_016",
+    "name": "Tyrone Mingse",
+    "displayName": "T. Mingse",
+    "kitName": "MINGSE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Aston Villa",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 64,
+      "shooting": 40,
+      "passing": 55,
+      "dribbling": 54,
+      "defending": 78,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_04",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.04,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_017",
+    "name": "Dan Burne",
+    "displayName": "D. Burne",
+    "kitName": "BURNE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 62,
+      "shooting": 43,
+      "passing": 60,
+      "dribbling": 53,
+      "defending": 76,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_05",
+      "hairStyle": "braids",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.04,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_018",
+    "name": "Nathan Collinen",
+    "displayName": "N. Collinen",
+    "kitName": "COLLINEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Ireland",
+    "league": "Premier League",
+    "club": "Brentford",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 64,
+      "shooting": 41,
+      "passing": 57,
+      "dribbling": 53,
+      "defending": 81,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_09",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.05,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_019",
+    "name": "Joachim Anderseen",
+    "displayName": "J. Anderseen",
+    "kitName": "ANDERSEEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Denmark",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 65,
+      "shooting": 45,
+      "passing": 59,
+      "dribbling": 56,
+      "defending": 78,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_08",
+      "hairStyle": "braids",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.03,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_020",
+    "name": "Max Kilmane",
+    "displayName": "M. Kilmane",
+    "kitName": "KILMANE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 64,
+      "shooting": 41,
+      "passing": 61,
+      "dribbling": 55,
+      "defending": 80,
+      "physical": 79
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_01",
+      "hairStyle": "undercut",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_021",
+    "name": "Jannik Vestergaaren",
+    "displayName": "J. Vestergaaren",
+    "kitName": "VESTERGAAREN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Denmark",
+    "league": "Premier League",
+    "club": "Leicester",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 62,
+      "shooting": 39,
+      "passing": 60,
+      "dribbling": 49,
+      "defending": 75,
+      "physical": 77
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_10",
+      "hairStyle": "undercut",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.04,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_022",
+    "name": "Chris Richarden",
+    "displayName": "C. Richarden",
+    "kitName": "RICHARDEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "USA",
+    "league": "Premier League",
+    "club": "Crystal Palace",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 60,
+      "shooting": 46,
+      "passing": 60,
+      "dribbling": 54,
+      "defending": 76,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_04",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.01,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_023",
+    "name": "Radu Dragusien",
+    "displayName": "R. Dragusien",
+    "kitName": "DRAGUSIEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Romania",
+    "league": "Premier League",
+    "club": "Tottenham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 65,
+      "shooting": 45,
+      "passing": 59,
+      "dribbling": 57,
+      "defending": 79,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_08",
+      "hairStyle": "undercut",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.05,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_024",
+    "name": "Ben Daviese",
+    "displayName": "B. Daviese",
+    "kitName": "DAVIESE",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Wales",
+    "league": "Premier League",
+    "club": "Tottenham",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 60,
+      "shooting": 40,
+      "passing": 57,
+      "dribbling": 51,
+      "defending": 75,
+      "physical": 77
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_04",
+      "hairStyle": "braids",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.05,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_025",
+    "name": "Vladimir Coufale",
+    "displayName": "V. Coufale",
+    "kitName": "COUFALE",
+    "position": "RB",
+    "altPositions": [
+      "RWB"
+    ],
+    "nationality": "Czech Republic",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 73,
+      "shooting": 52,
+      "passing": 63,
+      "dribbling": 67,
+      "defending": 69,
+      "physical": 68
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_09",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.04,
+      "widthScale": 0.99,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_026",
+    "name": "Kieran Trippieen",
+    "displayName": "K. Trippieen",
+    "kitName": "TRIPPIEEN",
+    "position": "RB",
+    "altPositions": [
+      "RWB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 77,
+      "shooting": 56,
+      "passing": 63,
+      "dribbling": 72,
+      "defending": 75,
+      "physical": 69
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.99,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_027",
+    "name": "Aaron Wan-Bissaken",
+    "displayName": "A. Wan-Bissaken",
+    "kitName": "WAN-BISSAKEN",
+    "position": "RB",
+    "altPositions": [
+      "RWB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 81,
+      "shooting": 54,
+      "passing": 68,
+      "dribbling": 70,
+      "defending": 78,
+      "physical": 71
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_01",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.01,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_028",
+    "name": "Noussair Mazraouen",
+    "displayName": "N. Mazraouen",
+    "kitName": "MAZRAOUEN",
+    "position": "RB",
+    "altPositions": [
+      "RWB"
+    ],
+    "nationality": "Morocco",
+    "league": "Premier League",
+    "club": "Man United",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 77,
+      "shooting": 58,
+      "passing": 65,
+      "dribbling": 68,
+      "defending": 74,
       "physical": 72
     },
     "appearance": {
-      "skinTone": [200, 160, 130],
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_05",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 0.98,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_029",
+    "name": "Ben Chilwelen",
+    "displayName": "B. Chilwelen",
+    "kitName": "CHILWELEN",
+    "position": "LB",
+    "altPositions": [
+      "LWB"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Chelsea",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 81,
+      "shooting": 52,
+      "passing": 65,
+      "dribbling": 68,
+      "defending": 76,
+      "physical": 70
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_10",
+      "hairStyle": "twists",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.01,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_030",
+    "name": "Sergio Reguiloen",
+    "displayName": "S. Reguiloen",
+    "kitName": "REGUILOEN",
+    "position": "LB",
+    "altPositions": [
+      "LWB"
+    ],
+    "nationality": "Spain",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 74,
+      "shooting": 49,
+      "passing": 63,
+      "dribbling": 69,
+      "defending": 75,
+      "physical": 66
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_07",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.0,
+      "depthScale": 0.99
+    }
+  },
+  {
+    "id": "common_031",
+    "name": "Lucas Dignee",
+    "displayName": "L. Dignee",
+    "kitName": "DIGNEE",
+    "position": "LB",
+    "altPositions": [
+      "LWB"
+    ],
+    "nationality": "France",
+    "league": "Premier League",
+    "club": "Aston Villa",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 77,
+      "shooting": 54,
+      "passing": 68,
+      "dribbling": 74,
+      "defending": 74,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_04",
+      "hairStyle": "twists",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 0.97,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_032",
+    "name": "Rayan Ait-Nouren",
+    "displayName": "R. Ait-Nouren",
+    "kitName": "AIT-NOUREN",
+    "position": "LB",
+    "altPositions": [
+      "LWB"
+    ],
+    "nationality": "Algeria",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 81,
+      "shooting": 55,
+      "passing": 65,
+      "dribbling": 73,
+      "defending": 78,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_06",
+      "hairStyle": "braids",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.01,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_033",
+    "name": "Mario Leminae",
+    "displayName": "M. Leminae",
+    "kitName": "LEMINAE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Gabon",
+    "league": "Super Lig",
+    "club": "Galatasaray",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 62,
+      "shooting": 56,
+      "passing": 74,
+      "dribbling": 67,
+      "defending": 79,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_05",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_034",
+    "name": "Ibrahim Sangaren",
+    "displayName": "I. Sangaren",
+    "kitName": "SANGAREN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Ivory Coast",
+    "league": "Premier League",
+    "club": "Nottingham Forest",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 64,
+      "shooting": 58,
+      "passing": 71,
+      "dribbling": 67,
+      "defending": 77,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_08",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.04,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_035",
+    "name": "Joao Palhinhen",
+    "displayName": "J. Palhinhen",
+    "kitName": "PALHINHEN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Portugal",
+    "league": "Bundesliga",
+    "club": "Bayern Munich",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 64,
+      "shooting": 60,
+      "passing": 73,
+      "dribbling": 67,
+      "defending": 80,
+      "physical": 77
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_01",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.03,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_036",
+    "name": "Yves Bissoumen",
+    "displayName": "Y. Bissoumen",
+    "kitName": "BISSOUMEN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Mali",
+    "league": "Premier League",
+    "club": "Tottenham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 68,
+      "shooting": 57,
+      "passing": 70,
+      "dribbling": 67,
+      "defending": 77,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_01",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_037",
+    "name": "Sander Bergee",
+    "displayName": "S. Bergee",
+    "kitName": "BERGEE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Norway",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 63,
+      "shooting": 58,
+      "passing": 72,
+      "dribbling": 68,
+      "defending": 77,
+      "physical": 78
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_03",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.03,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_038",
+    "name": "Guido Rodrigueen",
+    "displayName": "G. Rodrigueen",
+    "kitName": "RODRIGUEEN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Argentina",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 68,
+      "shooting": 60,
+      "passing": 71,
+      "dribbling": 69,
+      "defending": 77,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_02",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.02,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_039",
+    "name": "Sean Longstafen",
+    "displayName": "S. Longstafen",
+    "kitName": "LONGSTAFEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 69,
+      "shooting": 61,
+      "passing": 73,
+      "dribbling": 72,
+      "defending": 66,
+      "physical": 66
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_06",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 0.97,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_040",
+    "name": "Ross Barkleen",
+    "displayName": "R. Barkleen",
+    "kitName": "BARKLEEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Aston Villa",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 67,
+      "shooting": 65,
+      "passing": 75,
+      "dribbling": 75,
+      "defending": 62,
+      "physical": 64
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_10",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.04,
+      "widthScale": 0.99,
+      "depthScale": 0.99
+    }
+  },
+  {
+    "id": "common_041",
+    "name": "Ruben Loftus-Cheeen",
+    "displayName": "R. Loftus-Cheeen",
+    "kitName": "LOFTUS-CHEEEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "England",
+    "league": "Serie A",
+    "club": "AC Milan",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 69,
+      "shooting": 67,
+      "passing": 74,
+      "dribbling": 77,
+      "defending": 69,
+      "physical": 66
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_03",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.97,
+      "widthScale": 0.99,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_042",
+    "name": "Dani Ceballoen",
+    "displayName": "D. Ceballoen",
+    "kitName": "CEBALLOEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Spain",
+    "league": "La Liga",
+    "club": "Real Madrid",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 69,
+      "shooting": 69,
+      "passing": 79,
+      "dribbling": 73,
+      "defending": 69,
+      "physical": 69
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_08",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.01,
+      "widthScale": 0.98,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_043",
+    "name": "Marcel Sabitzeen",
+    "displayName": "M. Sabitzeen",
+    "kitName": "SABITZEEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Austria",
+    "league": "Bundesliga",
+    "club": "Dortmund",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 66,
+      "shooting": 70,
+      "passing": 77,
+      "dribbling": 77,
+      "defending": 68,
+      "physical": 70
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_05",
+      "hairStyle": "medium_wavy",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.01,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_044",
+    "name": "Piotr Zielinsken",
+    "displayName": "P. Zielinsken",
+    "kitName": "ZIELINSKEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Poland",
+    "league": "Serie A",
+    "club": "Inter Milan",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 66,
+      "shooting": 69,
+      "passing": 77,
+      "dribbling": 75,
+      "defending": 64,
+      "physical": 69
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_05",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.0,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_045",
+    "name": "Ismaila Sarre",
+    "displayName": "I. Sarre",
+    "kitName": "SARRE",
+    "position": "RM",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "Senegal",
+    "league": "Premier League",
+    "club": "Crystal Palace",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 80,
+      "shooting": 69,
+      "passing": 70,
+      "dribbling": 79,
+      "defending": 49,
+      "physical": 61
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_05",
+      "hairStyle": "undercut",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.98,
+      "depthScale": 0.97
+    }
+  },
+  {
+    "id": "common_046",
+    "name": "Adama Traoree",
+    "displayName": "A. Traoree",
+    "kitName": "TRAOREE",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Spain",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 80,
+      "shooting": 74,
+      "passing": 69,
+      "dribbling": 78,
+      "defending": 40,
+      "physical": 56
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_02",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.97,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_047",
+    "name": "Harvey Barnese",
+    "displayName": "H. Barnese",
+    "kitName": "BARNESE",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Newcastle",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 82,
+      "shooting": 74,
+      "passing": 73,
+      "dribbling": 78,
+      "defending": 38,
+      "physical": 62
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_09",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.0,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_048",
+    "name": "Jack Harrisoen",
+    "displayName": "J. Harrisoen",
+    "kitName": "HARRISOEN",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Everton",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 79,
+      "shooting": 71,
+      "passing": 68,
+      "dribbling": 75,
+      "defending": 39,
+      "physical": 57
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_08",
+      "hairStyle": "braids",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.0,
+      "depthScale": 0.97
+    }
+  },
+  {
+    "id": "common_049",
+    "name": "Samuel Chukwuezen",
+    "displayName": "S. Chukwuezen",
+    "kitName": "CHUKWUEZEN",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Nigeria",
+    "league": "Serie A",
+    "club": "AC Milan",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 78,
+      "shooting": 77,
+      "passing": 67,
+      "dribbling": 78,
+      "defending": 38,
+      "physical": 61
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_03",
+      "hairStyle": "fade",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 0.99,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_050",
+    "name": "Hakim Ziyeche",
+    "displayName": "H. Ziyeche",
+    "kitName": "ZIYECHE",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Morocco",
+    "league": "Qatar Stars League",
+    "club": "Al Duhail",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 78,
+      "shooting": 74,
+      "passing": 65,
+      "dribbling": 75,
+      "defending": 37,
+      "physical": 59
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_03",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 0.98,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_051",
+    "name": "Callum Hudson-Odoen",
+    "displayName": "C. Hudson-Odoen",
+    "kitName": "HUDSON-ODOEN",
+    "position": "LW",
+    "altPositions": [
+      "RW"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Nottingham Forest",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 82,
+      "shooting": 73,
+      "passing": 73,
+      "dribbling": 83,
+      "defending": 37,
+      "physical": 62
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_04",
+      "hairStyle": "undercut",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.98,
+      "widthScale": 0.99,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_052",
+    "name": "Leon Baileye",
+    "displayName": "L. Baileye",
+    "kitName": "BAILEYE",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Jamaica",
+    "league": "Premier League",
+    "club": "Aston Villa",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 82,
+      "shooting": 77,
+      "passing": 71,
+      "dribbling": 83,
+      "defending": 40,
+      "physical": 63
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 1.03,
+      "widthScale": 0.98,
+      "depthScale": 0.99
+    }
+  },
+  {
+    "id": "common_053",
+    "name": "Timo Wernere",
+    "displayName": "T. Wernere",
+    "kitName": "WERNERE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Germany",
+    "league": "Bundesliga",
+    "club": "RB Leipzig",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 74,
+      "shooting": 78,
+      "passing": 58,
+      "dribbling": 72,
+      "defending": 30,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.03,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_054",
+    "name": "Michail Antonien",
+    "displayName": "M. Antonien",
+    "kitName": "ANTONIEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Jamaica",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 74,
+      "shooting": 80,
+      "passing": 59,
+      "dribbling": 71,
+      "defending": 31,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_06",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.04,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_055",
+    "name": "Dominic Calvert-Lewien",
+    "displayName": "D. Calvert-Lewien",
+    "kitName": "CALVERT-LEWIEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "Everton",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 73,
+      "shooting": 82,
+      "passing": 61,
+      "dribbling": 73,
+      "defending": 35,
+      "physical": 71
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_07",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.02,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_056",
+    "name": "Betoe",
+    "displayName": "Betoe",
+    "kitName": "BETOE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Guinea-Bissau",
+    "league": "Premier League",
+    "club": "Everton",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 73,
+      "shooting": 80,
+      "passing": 61,
+      "dribbling": 69,
+      "defending": 30,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_05",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.02,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_057",
+    "name": "Jean-Philippe Matetae",
+    "displayName": "J. Matetae",
+    "kitName": "MATETAE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "France",
+    "league": "Premier League",
+    "club": "Crystal Palace",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 78,
+      "shooting": 84,
+      "passing": 62,
+      "dribbling": 73,
+      "defending": 37,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_01",
       "hairStyle": "short_straight",
-      "hairColor": [30, 20, 10],
-      "facialHair": "beard_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.03,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_058",
+    "name": "Chris Woode",
+    "displayName": "C. Woode",
+    "kitName": "WOODE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "New Zealand",
+    "league": "Premier League",
+    "club": "Nottingham Forest",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 77,
+      "shooting": 83,
+      "passing": 61,
+      "dribbling": 75,
+      "defending": 33,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        60,
+        40,
+        20
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.04,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_059",
+    "name": "Danny Ingse",
+    "displayName": "D. Ingse",
+    "kitName": "INGSE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "England",
+    "league": "Premier League",
+    "club": "West Ham",
+    "rarity": "Common",
+    "overall": 71,
+    "stats": {
+      "pace": 74,
+      "shooting": 79,
+      "passing": 62,
+      "dribbling": 73,
+      "defending": 29,
+      "physical": 72
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_10",
+      "hairStyle": "braids",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.04,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_060",
+    "name": "Wout Weghorsen",
+    "displayName": "W. Weghorsen",
+    "kitName": "WEGHORSEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Netherlands",
+    "league": "Eredivisie",
+    "club": "Ajax",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 77,
+      "shooting": 77,
+      "passing": 63,
+      "dribbling": 73,
+      "defending": 36,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_05",
+      "hairStyle": "short_straight",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.01,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_061",
+    "name": "Patrik Schicke",
+    "displayName": "P. Schicke",
+    "kitName": "SCHICKE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Czech Republic",
+    "league": "Bundesliga",
+    "club": "Bayer Leverkusen",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 76,
+      "shooting": 82,
+      "passing": 62,
+      "dribbling": 71,
+      "defending": 35,
+      "physical": 76
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_09",
+      "hairStyle": "undercut",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.02,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_062",
+    "name": "Alvaro Moratae",
+    "displayName": "A. Moratae",
+    "kitName": "MORATAE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Spain",
+    "league": "Serie A",
+    "club": "Como",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 73,
+      "shooting": 85,
+      "passing": 63,
+      "dribbling": 72,
+      "defending": 35,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_08",
+      "hairStyle": "undercut",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.0,
+      "widthScale": 1.05,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_063",
+    "name": "Dusan Tadice",
+    "displayName": "D. Tadice",
+    "kitName": "TADICE",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Serbia",
+    "league": "UAE Pro League",
+    "club": "Al Wahda",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 70,
+      "shooting": 74,
+      "passing": 79,
+      "dribbling": 82,
+      "defending": 43,
+      "physical": 60
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_05",
+      "hairStyle": "afro_medium",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.01,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_064",
+    "name": "Ivan Perisien",
+    "displayName": "I. Perisien",
+    "kitName": "PERISIEN",
+    "position": "LM",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Croatia",
+    "league": "Eredivisie",
+    "club": "PSV",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 81,
+      "shooting": 73,
+      "passing": 73,
+      "dribbling": 79,
+      "defending": 53,
+      "physical": 62
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_10",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
       "heightScale": 1.05,
-      "bodyType": "athletic"
+      "widthScale": 0.98,
+      "depthScale": 0.97
+    }
+  },
+  {
+    "id": "common_065",
+    "name": "Nemanja Matice",
+    "displayName": "N. Matice",
+    "kitName": "MATICE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Serbia",
+    "league": "Ligue 1",
+    "club": "Lyon",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 64,
+      "shooting": 57,
+      "passing": 73,
+      "dribbling": 66,
+      "defending": 73,
+      "physical": 77
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_05",
+      "hairStyle": "braids",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.03,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_066",
+    "name": "Axel Witsele",
+    "displayName": "A. Witsele",
+    "kitName": "WITSELE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Belgium",
+    "league": "La Liga",
+    "club": "Atletico Madrid",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 66,
+      "shooting": 62,
+      "passing": 75,
+      "dribbling": 65,
+      "defending": 73,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_09",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.03,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_067",
+    "name": "Cesar Azpilicueten",
+    "displayName": "C. Azpilicueten",
+    "kitName": "AZPILICUETEN",
+    "position": "RB",
+    "altPositions": [
+      "RWB"
+    ],
+    "nationality": "Spain",
+    "league": "La Liga",
+    "club": "Atletico Madrid",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 75,
+      "shooting": 51,
+      "passing": 66,
+      "dribbling": 67,
+      "defending": 70,
+      "physical": 70
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_04",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.03,
+      "widthScale": 0.98,
+      "depthScale": 1.0
+    }
+  },
+  {
+    "id": "common_068",
+    "name": "Mats Hummelen",
+    "displayName": "M. Hummelen",
+    "kitName": "HUMMELEN",
+    "position": "CB",
+    "altPositions": [
+      "LB"
+    ],
+    "nationality": "Germany",
+    "league": "Serie A",
+    "club": "Roma",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 61,
+      "shooting": 45,
+      "passing": 58,
+      "dribbling": 57,
+      "defending": 79,
+      "physical": 74
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_09",
+      "hairStyle": "braids",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.02,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_069",
+    "name": "Pepe Reinae",
+    "displayName": "P. Reinae",
+    "kitName": "REINAE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Spain",
+    "league": "Serie A",
+    "club": "Como",
+    "rarity": "Common",
+    "overall": 70,
+    "stats": {
+      "pace": 30,
+      "shooting": 10,
+      "passing": 47,
+      "dribbling": 23,
+      "defending": 24,
+      "physical": 57
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_02",
+      "hairStyle": "ponytail",
+      "hairColor": [
+        60,
+        40,
+        20
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.96,
+      "widthScale": 1.04,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_070",
+    "name": "Keylor Navase",
+    "displayName": "K. Navase",
+    "kitName": "NAVASE",
+    "position": "GK",
+    "altPositions": [],
+    "nationality": "Costa Rica",
+    "league": "Liga MX",
+    "club": "Pumas",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 37,
+      "shooting": 15,
+      "passing": 49,
+      "dribbling": 32,
+      "defending": 27,
+      "physical": 61
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_08",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        150,
+        110,
+        65
+      ],
+      "heightScale": 0.97,
+      "widthScale": 1.04,
+      "depthScale": 1.02
+    }
+  },
+  {
+    "id": "common_071",
+    "name": "Ander Herreren",
+    "displayName": "A. Herreren",
+    "kitName": "HERREREN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Spain",
+    "league": "Primera Division",
+    "club": "Boca Juniors",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 67,
+      "shooting": 62,
+      "passing": 77,
+      "dribbling": 73,
+      "defending": 67,
+      "physical": 65
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_06",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.02,
+      "widthScale": 1.01,
+      "depthScale": 0.98
+    }
+  },
+  {
+    "id": "common_072",
+    "name": "Alexis Sancheen",
+    "displayName": "A. Sancheen",
+    "kitName": "SANCHEEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Chile",
+    "league": "Serie A",
+    "club": "Udinese",
+    "rarity": "Common",
+    "overall": 73,
+    "stats": {
+      "pace": 73,
+      "shooting": 82,
+      "passing": 60,
+      "dribbling": 69,
+      "defending": 33,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        225,
+        195,
+        165
+      ],
+      "face": "face_03",
+      "hairStyle": "afro_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.01,
+      "widthScale": 1.05,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_073",
+    "name": "Edin Dzekoe",
+    "displayName": "E. Dzekoe",
+    "kitName": "DZEKOE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Bosnia and Herzegovina",
+    "league": "Super Lig",
+    "club": "Fenerbahce",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 78,
+      "shooting": 83,
+      "passing": 59,
+      "dribbling": 76,
+      "defending": 35,
+      "physical": 75
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_06",
+      "hairStyle": "bald",
+      "hairColor": [
+        0,
+        0,
+        0
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.05,
+      "widthScale": 1.03,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_074",
+    "name": "Olivier Giroude",
+    "displayName": "O. Giroude",
+    "kitName": "GIROUDE",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "France",
+    "league": "MLS",
+    "club": "LAFC",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 77,
+      "shooting": 80,
+      "passing": 64,
+      "dribbling": 74,
+      "defending": 36,
+      "physical": 77
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_01",
+      "hairStyle": "twists",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.05,
+      "widthScale": 1.02,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_075",
+    "name": "Williaen",
+    "displayName": "Williaen",
+    "kitName": "WILLIAEN",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Brazil",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 72,
+    "stats": {
+      "pace": 80,
+      "shooting": 73,
+      "passing": 71,
+      "dribbling": 81,
+      "defending": 37,
+      "physical": 58
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_01",
+      "hairStyle": "buzz_cut",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        15,
+        10,
+        5
+      ],
+      "heightScale": 1.0,
+      "widthScale": 0.99,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_076",
+    "name": "Raul Jimeneen",
+    "displayName": "R. Jimeneen",
+    "kitName": "JIMENEEN",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Mexico",
+    "league": "Premier League",
+    "club": "Fulham",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 76,
+      "shooting": 79,
+      "passing": 64,
+      "dribbling": 72,
+      "defending": 34,
+      "physical": 72
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_09",
+      "hairStyle": "long_straight",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 0.99,
+      "widthScale": 1.02,
+      "depthScale": 1.03
+    }
+  },
+  {
+    "id": "common_077",
+    "name": "Christian Erikseen",
+    "displayName": "C. Erikseen",
+    "kitName": "ERIKSEEN",
+    "position": "CAM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Denmark",
+    "league": "Premier League",
+    "club": "Man United",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 73,
+      "shooting": 78,
+      "passing": 79,
+      "dribbling": 82,
+      "defending": 42,
+      "physical": 56
+    },
+    "appearance": {
+      "skinTone": [
+        170,
+        120,
+        80
+      ],
+      "face": "face_07",
+      "hairStyle": "crew_cut",
+      "hairColor": [
+        15,
+        10,
+        5
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.04,
+      "widthScale": 1.0,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_078",
+    "name": "Thomas Parteye",
+    "displayName": "T. Parteye",
+    "kitName": "PARTEYE",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Ghana",
+    "league": "Premier League",
+    "club": "Arsenal",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 67,
+      "shooting": 58,
+      "passing": 70,
+      "dribbling": 65,
+      "defending": 77,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_02",
+      "hairStyle": "curly_short",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "goatee",
+        "moustache"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.98,
+      "widthScale": 1.05,
+      "depthScale": 1.04
+    }
+  },
+  {
+    "id": "common_079",
+    "name": "Jorginhen",
+    "displayName": "Jorginhen",
+    "kitName": "JORGINHEN",
+    "position": "CDM",
+    "altPositions": [
+      "CM"
+    ],
+    "nationality": "Italy",
+    "league": "Brasileirao",
+    "club": "Flamengo",
+    "rarity": "Common",
+    "overall": 74,
+    "stats": {
+      "pace": 62,
+      "shooting": 58,
+      "passing": 73,
+      "dribbling": 70,
+      "defending": 75,
+      "physical": 73
+    },
+    "appearance": {
+      "skinTone": [
+        120,
+        80,
+        50
+      ],
+      "face": "face_03",
+      "hairStyle": "medium_wavy",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.04,
+      "depthScale": 1.01
+    }
+  },
+  {
+    "id": "common_080",
+    "name": "Ilkay Gundogaen",
+    "displayName": "I. Gundogaen",
+    "kitName": "GUNDOGAEN",
+    "position": "CM",
+    "altPositions": [
+      "CDM"
+    ],
+    "nationality": "Germany",
+    "league": "Premier League",
+    "club": "Man City",
+    "rarity": "Common",
+    "overall": 75,
+    "stats": {
+      "pace": 69,
+      "shooting": 64,
+      "passing": 77,
+      "dribbling": 73,
+      "defending": 66,
+      "physical": 67
+    },
+    "appearance": {
+      "skinTone": [
+        205,
+        165,
+        130
+      ],
+      "face": "face_08",
+      "hairStyle": "short_textured",
+      "hairColor": [
+        150,
+        110,
+        65
+      ],
+      "facialHair": [
+        "none"
+      ],
+      "facialHairColor": [
+        0,
+        0,
+        0
+      ],
+      "heightScale": 1.03,
+      "widthScale": 1.02,
+      "depthScale": 0.98
     }
   }
 ]
