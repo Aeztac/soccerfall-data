@@ -1,110 +1,98 @@
 [
   {
     "id": "ultimate_001",
-    "name": "Pele",
-    "position": "CF",
-    "altPositions": ["ST", "CAM"],
-    "nationality": "Brazil",
-    "league": "Icon",
-    "club": "Icon",
+    "name": "Lionel Mesi",
+    "displayName": "L. Mesi",
+    "kitName": "MESI",
+    "position": "RW",
+    "altPositions": [
+      "LW"
+    ],
+    "nationality": "Argentina",
+    "league": "Ultimate",
+    "club": "Ultimate",
     "rarity": "Ultimate",
-    "overall": 98,
+    "overall": 99,
     "stats": {
-      "pace": 92,
-      "shooting": 96,
-      "passing": 90,
-      "dribbling": 96,
-      "defending": 52,
-      "physical": 78
+      "pace": 99,
+      "shooting": 98,
+      "passing": 93,
+      "dribbling": 99,
+      "defending": 67,
+      "physical": 81
     },
     "appearance": {
-      "skinTone": [120, 80, 45],
-      "hairStyle": "afro_short",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 0.99,
-      "bodyType": "athletic"
+      "skinTone": [
+        210,
+        175,
+        145
+      ],
+      "face": "face_04",
+      "hairStyle": "short_straight",
+      "hairColor": [
+        35,
+        25,
+        15
+      ],
+      "facialHair": [
+        "beard_short"
+      ],
+      "facialHairColor": [
+        35,
+        25,
+        15
+      ],
+      "heightScale": 0.93,
+      "widthScale": 1.0,
+      "depthScale": 1.0
     }
   },
   {
     "id": "ultimate_002",
-    "name": "Diego Maradona",
-    "position": "CAM",
-    "altPositions": ["CF", "ST"],
-    "nationality": "Argentina",
-    "league": "Icon",
-    "club": "Icon",
-    "rarity": "Ultimate",
-    "overall": 97,
-    "stats": {
-      "pace": 86,
-      "shooting": 92,
-      "passing": 90,
-      "dribbling": 98,
-      "defending": 34,
-      "physical": 68
-    },
-    "appearance": {
-      "skinTone": [195, 155, 120],
-      "hairStyle": "medium_curly",
-      "hairColor": [15, 10, 5],
-      "facialHair": "none",
-      "heightScale": 0.93,
-      "bodyType": "stocky"
-    }
-  },
-  {
-    "id": "ultimate_003",
-    "name": "Lionel Messi",
-    "position": "RW",
-    "altPositions": ["CAM", "CF"],
-    "nationality": "Argentina",
-    "league": "Icon",
-    "club": "Icon",
+    "name": "Cristiano Ronaldoz",
+    "displayName": "C. Ronaldoz",
+    "kitName": "RONALDOZ",
+    "position": "ST",
+    "altPositions": [
+      "CF"
+    ],
+    "nationality": "Portugal",
+    "league": "Ultimate",
+    "club": "Ultimate",
     "rarity": "Ultimate",
     "overall": 99,
     "stats": {
-      "pace": 88,
-      "shooting": 94,
-      "passing": 94,
+      "pace": 98,
+      "shooting": 99,
+      "passing": 88,
       "dribbling": 99,
-      "defending": 38,
-      "physical": 64
+      "defending": 61,
+      "physical": 98
     },
     "appearance": {
-      "skinTone": [210, 175, 145],
-      "hairStyle": "short_straight",
-      "hairColor": [30, 20, 10],
-      "facialHair": "beard_full",
-      "heightScale": 0.93,
-      "bodyType": "lean"
-    }
-  },
-  {
-    "id": "ultimate_004",
-    "name": "Cristiano Ronaldo",
-    "position": "ST",
-    "altPositions": ["LW", "CF"],
-    "nationality": "Portugal",
-    "league": "Icon",
-    "club": "Icon",
-    "rarity": "Ultimate",
-    "overall": 98,
-    "stats": {
-      "pace": 92,
-      "shooting": 96,
-      "passing": 82,
-      "dribbling": 90,
-      "defending": 38,
-      "physical": 86
-    },
-    "appearance": {
-      "skinTone": [205, 165, 135],
-      "hairStyle": "short_slicked",
-      "hairColor": [25, 18, 10],
-      "facialHair": "none",
+      "skinTone": [
+        205,
+        165,
+        135
+      ],
+      "face": "face_07",
+      "hairStyle": "slick_back",
+      "hairColor": [
+        25,
+        18,
+        10
+      ],
+      "facialHair": [
+        "stubble"
+      ],
+      "facialHairColor": [
+        25,
+        18,
+        10
+      ],
       "heightScale": 1.04,
-      "bodyType": "athletic"
+      "widthScale": 1.03,
+      "depthScale": 1.02
     }
   }
 ]
